@@ -1,0 +1,192 @@
+[
+  {
+    "id": "chinese_001",
+    "name": "Kung Pao Chicken",
+    "cuisine": "Chinese",
+    "diet": ["Non Vegetarian", "Gluten Free"],
+    "difficulty": "Medium",
+    "prep_time": 20,
+    "cook_time": 15,
+    "servings": 4,
+    "calories": 380,
+    "protein": 34,
+    "fat": 18,
+    "carbohydrates": 22,
+    "ingredients": ["chicken", "peanuts", "dried red chilies", "soy sauce", "garlic", "ginger", "green onion", "sesame oil", "cornstarch", "sugar", "vinegar", "oil"],
+    "instructions": [
+      "Cut chicken into bite-sized cubes. Marinate with soy sauce and cornstarch.",
+      "Mix sauce: soy sauce, vinegar, sugar, sesame oil, and cornstarch.",
+      "Heat oil in a wok over high heat.",
+      "Stir-fry dried chilies and Sichuan peppercorns for 30 seconds.",
+      "Add marinated chicken and cook until golden.",
+      "Add garlic and ginger, stir-fry for 1 minute.",
+      "Pour in sauce mixture and toss to coat.",
+      "Add peanuts and green onions, toss and serve immediately."
+    ],
+    "cooking_tips": [
+      "High heat is essential for proper wok cooking.",
+      "Have all ingredients prepped before starting — it cooks fast.",
+      "Toast peanuts beforehand for better flavor."
+    ],
+    "serving_suggestions": "Serve over steamed white rice or fried rice.",
+    "storage_tips": "Refrigerate for up to 2 days. Best eaten fresh.",
+    "substitutions": {
+      "chicken": "tofu or shrimp",
+      "peanuts": "cashews or almonds",
+      "soy sauce": "tamari for gluten-free"
+    },
+    "tags": ["spicy", "classic", "wok", "quick"]
+  },
+  {
+    "id": "chinese_002",
+    "name": "Egg Fried Rice",
+    "cuisine": "Chinese",
+    "diet": ["Vegetarian"],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 15,
+    "servings": 4,
+    "calories": 340,
+    "protein": 14,
+    "fat": 10,
+    "carbohydrates": 52,
+    "ingredients": ["rice", "egg", "onion", "garlic", "soy sauce", "green onion", "sesame oil", "oil", "salt", "white pepper"],
+    "instructions": [
+      "Use day-old cold rice for best results.",
+      "Beat eggs with a pinch of salt.",
+      "Heat oil in a wok over high heat.",
+      "Scramble eggs in the wok, break into small pieces, set aside.",
+      "Add more oil, stir-fry garlic and onions until fragrant.",
+      "Add cold rice and stir-fry vigorously, breaking up any clumps.",
+      "Add scrambled eggs back and toss together.",
+      "Season with soy sauce, white pepper, and sesame oil. Top with green onions."
+    ],
+    "cooking_tips": [
+      "Cold, day-old rice is key — fresh rice gets mushy.",
+      "Cook on very high heat for the 'wok hei' smoky flavor.",
+      "Keep everything moving in the wok."
+    ],
+    "serving_suggestions": "Serve as a main dish or as a side with other Chinese dishes.",
+    "storage_tips": "Refrigerate for up to 3 days. Reheat in a hot wok.",
+    "substitutions": {
+      "egg": "tofu scramble for vegan version",
+      "soy sauce": "tamari",
+      "white rice": "brown rice or cauliflower rice"
+    },
+    "tags": ["leftover friendly", "quick", "everyday", "budget"]
+  },
+  {
+    "id": "chinese_003",
+    "name": "Sweet and Sour Pork",
+    "cuisine": "Chinese",
+    "diet": ["Non Vegetarian"],
+    "difficulty": "Medium",
+    "prep_time": 25,
+    "cook_time": 20,
+    "servings": 4,
+    "calories": 420,
+    "protein": 28,
+    "fat": 16,
+    "carbohydrates": 48,
+    "ingredients": ["pork", "bell pepper", "pineapple", "onion", "garlic", "vinegar", "tomato ketchup", "soy sauce", "sugar", "cornstarch", "egg", "oil"],
+    "instructions": [
+      "Cut pork into chunks, marinate with soy sauce for 15 minutes.",
+      "Coat pork pieces in egg then cornstarch.",
+      "Deep fry pork until golden and crispy. Set aside.",
+      "Make sauce: mix ketchup, vinegar, sugar, soy sauce, and water.",
+      "Stir-fry onions, bell peppers, and pineapple for 2 minutes.",
+      "Add sauce and bring to a boil.",
+      "Add fried pork and toss to coat.",
+      "Thicken with cornstarch slurry if needed."
+    ],
+    "cooking_tips": [
+      "Double frying pork makes it extra crispy.",
+      "Add pork at the last minute to keep it crispy.",
+      "Fresh pineapple gives better flavor than canned."
+    ],
+    "serving_suggestions": "Serve over steamed rice with a garnish of sesame seeds.",
+    "storage_tips": "Store sauce and pork separately. Combine when serving.",
+    "substitutions": {
+      "pork": "chicken or tofu",
+      "pineapple": "mango or apple",
+      "ketchup": "tomato paste with extra vinegar and sugar"
+    },
+    "tags": ["classic", "sweet", "crispy", "family favorite"]
+  },
+  {
+    "id": "chinese_004",
+    "name": "Mapo Tofu",
+    "cuisine": "Chinese",
+    "diet": ["Vegetarian", "Vegan", "Gluten Free"],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 20,
+    "servings": 4,
+    "calories": 260,
+    "protein": 16,
+    "fat": 14,
+    "carbohydrates": 16,
+    "ingredients": ["tofu", "garlic", "ginger", "green onion", "soy sauce", "chili bean paste", "sesame oil", "cornstarch", "vegetable broth", "Sichuan pepper", "oil"],
+    "instructions": [
+      "Cut tofu into 1-inch cubes. Blanch in salted water for 2 minutes.",
+      "Heat oil in a wok, fry garlic and ginger until fragrant.",
+      "Add chili bean paste and cook for 1 minute.",
+      "Add vegetable broth and bring to simmer.",
+      "Gently add tofu and simmer for 5 minutes.",
+      "Add soy sauce and sesame oil.",
+      "Thicken with cornstarch slurry.",
+      "Garnish with Sichuan pepper and green onions."
+    ],
+    "cooking_tips": [
+      "Silken tofu is traditional but firm tofu holds up better.",
+      "Blanching tofu removes any bitterness.",
+      "Sichuan peppercorns give the characteristic numbing sensation."
+    ],
+    "serving_suggestions": "Serve over steamed rice. The spicy sauce is perfect for soaking up.",
+    "storage_tips": "Refrigerate for 2 days but tofu softens over time.",
+    "substitutions": {
+      "chili bean paste": "chili garlic sauce",
+      "Sichuan pepper": "black pepper",
+      "tofu": "eggs for a non-vegan version"
+    },
+    "tags": ["spicy", "vegan", "protein-rich", "Sichuan"]
+  },
+  {
+    "id": "chinese_005",
+    "name": "Spring Rolls",
+    "cuisine": "Chinese",
+    "diet": ["Vegetarian"],
+    "difficulty": "Medium",
+    "prep_time": 30,
+    "cook_time": 20,
+    "servings": 4,
+    "calories": 280,
+    "protein": 8,
+    "fat": 12,
+    "carbohydrates": 36,
+    "ingredients": ["spring roll wrappers", "cabbage", "carrot", "mushrooms", "garlic", "ginger", "soy sauce", "sesame oil", "cornstarch", "oil", "green onion"],
+    "instructions": [
+      "Shred cabbage and carrots, slice mushrooms thin.",
+      "Stir-fry vegetables with garlic and ginger until softened.",
+      "Season with soy sauce and sesame oil. Let cool completely.",
+      "Place filling on spring roll wrapper diagonally.",
+      "Fold in sides, roll tightly, seal edge with cornstarch paste.",
+      "Heat oil to 175°C for deep frying.",
+      "Fry spring rolls in batches until golden and crispy.",
+      "Drain on paper towels and serve hot."
+    ],
+    "cooking_tips": [
+      "Let filling cool completely before rolling to prevent soggy wrappers.",
+      "Make sure oil is hot enough before frying.",
+      "For baked version, brush with oil and bake at 200°C."
+    ],
+    "serving_suggestions": "Serve with sweet chili sauce or soy dipping sauce.",
+    "storage_tips": "Freeze uncooked rolls for up to 2 months. Fry from frozen.",
+    "substitutions": {
+      "spring roll wrappers": "rice paper or puff pastry",
+      "mushrooms": "any vegetables you have",
+      "cabbage": "bok choy or lettuce"
+    },
+    "tags": ["crispy", "snack", "appetizer", "party food"]
+  }
+]

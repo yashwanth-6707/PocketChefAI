@@ -1,0 +1,192 @@
+[
+  {
+    "id": "breakfast_001",
+    "name": "Avocado Toast with Poached Eggs",
+    "cuisine": "American",
+    "diet": ["Vegetarian", "Dairy Free"],
+    "difficulty": "Easy",
+    "prep_time": 5,
+    "cook_time": 10,
+    "servings": 2,
+    "calories": 340,
+    "protein": 16,
+    "fat": 22,
+    "carbohydrates": 24,
+    "ingredients": ["bread", "avocado", "egg", "lemon", "olive oil", "red pepper flakes", "salt", "black pepper", "garlic"],
+    "instructions": [
+      "Toast bread slices until golden and crispy.",
+      "Mash avocado with lemon juice, salt, and pepper.",
+      "Rub toast with a halved garlic clove while warm.",
+      "Spread mashed avocado generously on toast.",
+      "For poached eggs: bring water to a gentle simmer with a splash of vinegar.",
+      "Create a gentle swirl in water, crack egg into center.",
+      "Poach for 3-4 minutes until white is set but yolk is runny.",
+      "Place poached egg on avocado toast, drizzle with olive oil, add red pepper flakes."
+    ],
+    "cooking_tips": [
+      "Add vinegar to poaching water to help whites hold together.",
+      "Fresh eggs poach better than older eggs.",
+      "Add everything bagel seasoning for extra flavor."
+    ],
+    "serving_suggestions": "Serve immediately with a side of fresh fruit or a small green salad.",
+    "storage_tips": "Best eaten immediately. Avocado browns quickly when exposed to air.",
+    "substitutions": {
+      "bread": "sourdough or gluten-free bread",
+      "egg": "scrambled tofu for vegan",
+      "avocado": "hummus for avocado-free version"
+    },
+    "tags": ["healthy", "quick", "trendy", "nutritious"]
+  },
+  {
+    "id": "breakfast_002",
+    "name": "Masala Omelette",
+    "cuisine": "Indian",
+    "diet": ["Non Vegetarian", "Gluten Free", "Low Carb"],
+    "difficulty": "Easy",
+    "prep_time": 5,
+    "cook_time": 10,
+    "servings": 2,
+    "calories": 220,
+    "protein": 18,
+    "fat": 14,
+    "carbohydrates": 6,
+    "ingredients": ["egg", "onion", "tomato", "green chili", "coriander leaves", "turmeric", "salt", "butter", "black pepper"],
+    "instructions": [
+      "Beat eggs well with salt and a pinch of turmeric.",
+      "Add finely chopped onion, tomato, green chili, and coriander.",
+      "Mix everything together.",
+      "Heat butter in a pan over medium heat.",
+      "Pour egg mixture into the pan, spreading evenly.",
+      "Let cook undisturbed for 2 minutes until bottom is set.",
+      "Fold omelette in half and cook for 1 more minute.",
+      "Serve hot with toast or bread."
+    ],
+    "cooking_tips": [
+      "Beat eggs properly for a fluffy omelette.",
+      "Don't overfill — the omelette won't fold properly.",
+      "Medium heat prevents rubbery eggs."
+    ],
+    "serving_suggestions": "Serve with buttered toast and masala chai.",
+    "storage_tips": "Best eaten immediately. Eggs get rubbery when reheated.",
+    "substitutions": {
+      "butter": "oil or ghee",
+      "egg": "3 egg whites for lighter version",
+      "green chili": "any chili or black pepper"
+    },
+    "tags": ["quick", "protein-rich", "Indian breakfast", "everyday"]
+  },
+  {
+    "id": "breakfast_003",
+    "name": "Overnight Oats",
+    "cuisine": "American",
+    "diet": ["Vegetarian", "Vegan", "Gluten Free", "High Protein"],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 0,
+    "servings": 2,
+    "calories": 290,
+    "protein": 12,
+    "fat": 8,
+    "carbohydrates": 46,
+    "ingredients": ["oats", "milk", "yogurt", "chia seeds", "banana", "berries", "honey", "vanilla extract", "cinnamon"],
+    "instructions": [
+      "In a mason jar or bowl, combine rolled oats and chia seeds.",
+      "Add milk and yogurt. Mix well.",
+      "Add vanilla extract, cinnamon, and honey.",
+      "Stir until everything is well combined.",
+      "Top with sliced banana and berries.",
+      "Cover and refrigerate overnight (at least 6 hours).",
+      "In the morning, stir and add a little milk if too thick.",
+      "Add fresh toppings and enjoy cold or warmed up."
+    ],
+    "cooking_tips": [
+      "Use at least a 1:1.5 ratio of oats to liquid.",
+      "Steel-cut oats need 24 hours soaking time.",
+      "Add toppings fresh in the morning for best texture."
+    ],
+    "serving_suggestions": "Serve cold in summer or warm in winter. Top with nut butter for extra protein.",
+    "storage_tips": "Refrigerate for up to 5 days without toppings.",
+    "substitutions": {
+      "milk": "almond milk, oat milk, or coconut milk",
+      "yogurt": "coconut yogurt for dairy-free",
+      "honey": "maple syrup for vegan"
+    },
+    "tags": ["meal prep", "no-cook", "healthy", "fiber-rich"]
+  },
+  {
+    "id": "breakfast_004",
+    "name": "Poha (Flattened Rice Breakfast)",
+    "cuisine": "Indian",
+    "diet": ["Vegetarian", "Vegan", "Gluten Free"],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 15,
+    "servings": 3,
+    "calories": 260,
+    "protein": 6,
+    "fat": 8,
+    "carbohydrates": 42,
+    "ingredients": ["flattened rice (poha)", "onion", "potato", "mustard seeds", "turmeric", "green chili", "curry leaves", "peanuts", "lemon", "coriander", "sugar", "salt", "oil"],
+    "instructions": [
+      "Wash poha gently and drain. Let sit for 5 minutes until softened.",
+      "Season with salt, turmeric, and a pinch of sugar. Set aside.",
+      "Heat oil, add mustard seeds and let them splutter.",
+      "Add peanuts and fry until golden.",
+      "Add curry leaves, green chili, and onions. Cook until soft.",
+      "Add diced potato and cook covered for 5 minutes.",
+      "Add the seasoned poha and mix gently.",
+      "Cook covered for 3-4 minutes. Finish with lemon juice and coriander."
+    ],
+    "cooking_tips": [
+      "Don't over-soak poha — it should be just softened, not mushy.",
+      "Use thick poha for best texture.",
+      "The sugar balances the sour-spicy flavors."
+    ],
+    "serving_suggestions": "Serve hot with coconut chutney and a cup of chai.",
+    "storage_tips": "Best eaten fresh. Can be refrigerated for 1 day.",
+    "substitutions": {
+      "potato": "peas or sweet corn",
+      "peanuts": "cashews",
+      "curry leaves": "bay leaves"
+    },
+    "tags": ["Indian breakfast", "quick", "light", "popular"]
+  },
+  {
+    "id": "breakfast_005",
+    "name": "French Toast",
+    "cuisine": "American",
+    "diet": ["Vegetarian"],
+    "difficulty": "Easy",
+    "prep_time": 5,
+    "cook_time": 15,
+    "servings": 4,
+    "calories": 280,
+    "protein": 10,
+    "fat": 12,
+    "carbohydrates": 35,
+    "ingredients": ["bread", "egg", "milk", "cinnamon", "vanilla extract", "sugar", "butter", "maple syrup"],
+    "instructions": [
+      "Beat eggs with milk, cinnamon, vanilla extract, and sugar.",
+      "Heat butter in a pan over medium heat.",
+      "Dip bread slices in egg mixture, coating both sides.",
+      "Place soaked bread in the pan.",
+      "Cook 2-3 minutes per side until golden brown.",
+      "Repeat for remaining bread slices.",
+      "Dust with powdered sugar and serve with maple syrup.",
+      "Add fresh berries or sliced banana on the side."
+    ],
+    "cooking_tips": [
+      "Use day-old or slightly stale bread — it absorbs better.",
+      "Thick-cut brioche or challah makes the best French toast.",
+      "Medium heat prevents burning while cooking through."
+    ],
+    "serving_suggestions": "Serve with maple syrup, fresh berries, and whipped cream.",
+    "storage_tips": "Refrigerate for 2 days. Reheat in a pan or toaster.",
+    "substitutions": {
+      "milk": "almond milk or coconut milk",
+      "butter": "coconut oil",
+      "bread": "gluten-free bread or challah"
+    },
+    "tags": ["classic", "sweet", "kids friendly", "weekend breakfast"]
+  }
+]

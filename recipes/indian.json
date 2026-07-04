@@ -1,0 +1,382 @@
+[
+  {
+    "id": "indian_001",
+    "name": "Butter Chicken (Murgh Makhani)",
+    "cuisine": "Indian",
+    "diet": ["Non Vegetarian"],
+    "difficulty": "Medium",
+    "prep_time": 20,
+    "cook_time": 40,
+    "servings": 4,
+    "calories": 420,
+    "protein": 35,
+    "fat": 22,
+    "carbohydrates": 18,
+    "ingredients": ["chicken", "butter", "tomato", "onion", "garlic", "ginger", "cream", "garam masala", "cumin", "coriander", "turmeric", "chili powder", "salt", "oil"],
+    "instructions": [
+      "Marinate chicken in yogurt, turmeric, chili powder, and salt for at least 1 hour.",
+      "Heat oil in a pan and cook marinated chicken until golden brown. Set aside.",
+      "In the same pan, melt butter and sauté onions until golden.",
+      "Add ginger-garlic paste and cook for 2 minutes.",
+      "Add tomato puree, garam masala, cumin, coriander, and cook for 10 minutes.",
+      "Blend the sauce until smooth, then return to pan.",
+      "Add cooked chicken and simmer for 15 minutes.",
+      "Stir in cream, adjust seasoning, and garnish with fresh coriander."
+    ],
+    "cooking_tips": [
+      "Marinate chicken overnight for deeper flavor.",
+      "Use kasuri methi (dried fenugreek) for authentic taste.",
+      "Blend the sauce for a silky smooth texture."
+    ],
+    "serving_suggestions": "Serve hot with naan bread, basmati rice, or roti. Garnish with a swirl of cream.",
+    "storage_tips": "Refrigerate for up to 3 days or freeze for up to 1 month.",
+    "substitutions": {
+      "butter": "ghee or olive oil",
+      "cream": "coconut cream or cashew paste",
+      "chicken": "paneer or tofu for vegetarian version"
+    },
+    "tags": ["popular", "restaurant-style", "rich", "creamy"]
+  },
+  {
+    "id": "indian_002",
+    "name": "Dal Tadka",
+    "cuisine": "Indian",
+    "diet": ["Vegetarian", "Vegan", "Gluten Free"],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 30,
+    "servings": 4,
+    "calories": 280,
+    "protein": 14,
+    "fat": 8,
+    "carbohydrates": 38,
+    "ingredients": ["yellow lentils", "tomato", "onion", "garlic", "ginger", "cumin", "turmeric", "red chili", "mustard seeds", "ghee", "coriander leaves", "salt"],
+    "instructions": [
+      "Wash and soak yellow lentils for 20 minutes.",
+      "Pressure cook lentils with turmeric and salt until soft.",
+      "Heat ghee in a pan, add mustard seeds and let them splutter.",
+      "Add cumin, dried red chili, and garlic. Sauté until golden.",
+      "Add onions and cook until translucent.",
+      "Add tomatoes, ginger and cook until oil separates.",
+      "Pour this tadka over cooked lentils and stir well.",
+      "Garnish with fresh coriander and a squeeze of lemon."
+    ],
+    "cooking_tips": [
+      "Soaking lentils reduces cooking time significantly.",
+      "The tadka (tempering) is the key to this dish's flavor.",
+      "Add a pinch of asafoetida for authentic taste."
+    ],
+    "serving_suggestions": "Serve with steamed basmati rice or jeera rice. Perfect with roti.",
+    "storage_tips": "Refrigerate for up to 4 days. Add water when reheating as it thickens.",
+    "substitutions": {
+      "ghee": "butter or coconut oil",
+      "yellow lentils": "red lentils or split peas",
+      "mustard seeds": "cumin seeds"
+    },
+    "tags": ["comfort food", "protein-rich", "everyday", "healthy"]
+  },
+  {
+    "id": "indian_003",
+    "name": "Palak Paneer",
+    "cuisine": "Indian",
+    "diet": ["Vegetarian", "Gluten Free"],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 25,
+    "servings": 4,
+    "calories": 320,
+    "protein": 18,
+    "fat": 20,
+    "carbohydrates": 16,
+    "ingredients": ["paneer", "spinach", "onion", "tomato", "garlic", "ginger", "cream", "garam masala", "cumin", "coriander", "turmeric", "butter", "salt"],
+    "instructions": [
+      "Blanch spinach in boiling water for 2 minutes, then immediately transfer to cold water.",
+      "Blend blanched spinach into a smooth puree.",
+      "Heat butter in a pan, fry cubed paneer until golden on all sides. Set aside.",
+      "In the same pan, add cumin seeds, then onions and cook until golden.",
+      "Add ginger-garlic paste, tomatoes, and all spices. Cook until oil separates.",
+      "Add spinach puree and cook for 5 minutes.",
+      "Add fried paneer and simmer for 5 more minutes.",
+      "Stir in cream, season with salt and serve hot."
+    ],
+    "cooking_tips": [
+      "Blanch and immediately cool spinach to retain its vibrant green color.",
+      "Frying paneer gives it a nice texture that holds up in the curry.",
+      "Do not overcook spinach as it turns dark."
+    ],
+    "serving_suggestions": "Serve with butter naan, tandoori roti, or jeera rice.",
+    "storage_tips": "Refrigerate for 2-3 days. The color may darken but taste remains good.",
+    "substitutions": {
+      "paneer": "tofu or halloumi",
+      "cream": "cashew cream or coconut milk",
+      "butter": "ghee or olive oil"
+    },
+    "tags": ["vegetarian", "protein-rich", "iron-rich", "popular"]
+  },
+  {
+    "id": "indian_004",
+    "name": "Chicken Biryani",
+    "cuisine": "Indian",
+    "diet": ["Non Vegetarian", "Gluten Free"],
+    "difficulty": "Hard",
+    "prep_time": 30,
+    "cook_time": 60,
+    "servings": 6,
+    "calories": 520,
+    "protein": 38,
+    "fat": 18,
+    "carbohydrates": 55,
+    "ingredients": ["chicken", "basmati rice", "onion", "yogurt", "mint", "saffron", "ghee", "garam masala", "biryani masala", "garlic", "ginger", "green chili", "tomato", "salt", "oil"],
+    "instructions": [
+      "Marinate chicken with yogurt, biryani masala, ginger-garlic paste for 2 hours.",
+      "Parboil basmati rice with whole spices until 70% cooked. Drain.",
+      "Fry sliced onions until deep golden brown (birista). Set aside.",
+      "Cook marinated chicken in a heavy pan until half done.",
+      "Layer parboiled rice over chicken.",
+      "Add saffron milk, fried onions, mint leaves, and ghee on top.",
+      "Seal the pot with dough or foil and cook on low heat (dum) for 25 minutes.",
+      "Gently mix from bottom before serving."
+    ],
+    "cooking_tips": [
+      "The dum (slow steam cooking) is what makes biryani special.",
+      "Crispy golden onions add essential flavor and texture.",
+      "Soak rice for 30 minutes before parboiling."
+    ],
+    "serving_suggestions": "Serve with raita, mirchi ka salan, and papad.",
+    "storage_tips": "Refrigerate for 2 days. Reheat with a sprinkle of water to prevent drying.",
+    "substitutions": {
+      "chicken": "mutton, prawns, or vegetables",
+      "saffron": "turmeric for color",
+      "ghee": "butter or oil"
+    },
+    "tags": ["festive", "special occasion", "aromatic", "layered"]
+  },
+  {
+    "id": "indian_005",
+    "name": "Aloo Gobi",
+    "cuisine": "Indian",
+    "diet": ["Vegetarian", "Vegan", "Gluten Free"],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 25,
+    "servings": 3,
+    "calories": 210,
+    "protein": 6,
+    "fat": 10,
+    "carbohydrates": 28,
+    "ingredients": ["potato", "cauliflower", "onion", "tomato", "garlic", "ginger", "turmeric", "cumin", "coriander", "garam masala", "oil", "salt", "coriander leaves"],
+    "instructions": [
+      "Cut potatoes into cubes and cauliflower into small florets.",
+      "Heat oil in a pan, add cumin seeds and let them splutter.",
+      "Add onions and cook until golden brown.",
+      "Add ginger-garlic paste and cook for 1 minute.",
+      "Add tomatoes and all spices, cook until oil separates.",
+      "Add potatoes, mix well, and cook covered for 10 minutes.",
+      "Add cauliflower and continue cooking until both vegetables are tender.",
+      "Garnish with fresh coriander and serve hot."
+    ],
+    "cooking_tips": [
+      "Don't add water — let vegetables cook in their own moisture.",
+      "Parboiling potatoes can reduce cooking time.",
+      "Add amchur (dry mango powder) for tangy flavor."
+    ],
+    "serving_suggestions": "Serve with roti, paratha, or as a side dish with dal and rice.",
+    "storage_tips": "Refrigerate for 2-3 days. Best when freshly made.",
+    "substitutions": {
+      "cauliflower": "broccoli or cabbage",
+      "potato": "sweet potato",
+      "oil": "ghee for richer flavor"
+    },
+    "tags": ["vegan", "everyday", "simple", "healthy"]
+  },
+  {
+    "id": "indian_006",
+    "name": "Paneer Tikka Masala",
+    "cuisine": "Indian",
+    "diet": ["Vegetarian"],
+    "difficulty": "Medium",
+    "prep_time": 20,
+    "cook_time": 30,
+    "servings": 4,
+    "calories": 390,
+    "protein": 22,
+    "fat": 24,
+    "carbohydrates": 20,
+    "ingredients": ["paneer", "yogurt", "tomato puree", "onion", "bell pepper", "garam masala", "cumin", "coriander", "kasuri methi", "ginger", "garlic", "cream", "butter", "oil", "salt"],
+    "instructions": [
+      "Marinate paneer cubes in yogurt, ginger-garlic paste, garam masala, and salt for 30 minutes.",
+      "Grill or sauté paneer and bell peppers until lightly charred and set aside.",
+      "Heat butter and oil in a pan, sauté onions until golden brown.",
+      "Add ginger-garlic paste and cook for 1 minute.",
+      "Stir in tomato puree, cumin, coriander, and simmer until oil separates.",
+      "Add cream, kasuri methi, and cook for 2 minutes.",
+      "Add paneer and bell peppers to the sauce, simmer for 5 minutes.",
+      "Garnish with cilantro and serve hot."
+    ],
+    "cooking_tips": [
+      "Char the paneer lightly for authentic tikka flavor.",
+      "Use fresh tomatoes or good-quality puree for the best sauce.",
+      "Kasuri methi adds a signature smoky aroma — don’t skip it."
+    ],
+    "serving_suggestions": "Serve with naan, roti, or jeera rice.",
+    "storage_tips": "Refrigerate for 2 days and reheat gently.",
+    "substitutions": {
+      "paneer": "tofu for vegan version",
+      "cream": "coconut cream or cashew cream",
+      "butter": "oil"
+    },
+    "tags": ["restaurant-style", "comfort food", "vegetarian", "rich"]
+  },
+  {
+    "id": "indian_007",
+    "name": "Vegetable Biryani",
+    "cuisine": "Indian",
+    "diet": ["Vegetarian", "Gluten Free"],
+    "difficulty": "Medium",
+    "prep_time": 25,
+    "cook_time": 45,
+    "servings": 6,
+    "calories": 430,
+    "protein": 10,
+    "fat": 16,
+    "carbohydrates": 62,
+    "ingredients": ["basmati rice", "mixed vegetables", "onion", "tomato", "yogurt", "mint", "cilantro", "biryani masala", "ginger", "garlic", "green chili", "saffron", "ghee", "oil", "salt"],
+    "instructions": [
+      "Wash and soak basmati rice for 30 minutes.",
+      "Heat oil and ghee in a pan, fry sliced onions until golden brown. Set aside half for garnish.",
+      "Add ginger-garlic paste, green chili, and sauté briefly.",
+      "Add chopped tomatoes, mixed vegetables, biryani masala, and yogurt. Cook until vegetables are soft.",
+      "Layer partially cooked rice over the vegetable mixture.",
+      "Sprinkle saffron milk, mint, cilantro, and fried onions.",
+      "Cover and cook on low heat for 20 minutes (dum cooking).",
+      "Gently fluff the biryani and serve hot."
+    ],
+    "cooking_tips": [
+      "Parboil the rice until about 70% cooked.",
+      "Use a heavy-bottomed pot and seal the lid for dum cooking.",
+      "Brown onions slowly for the best flavor and texture." 
+    ],
+    "serving_suggestions": "Serve with raita, papad, and salad.",
+    "storage_tips": "Store refrigerated for 2 days and reheat with a splash of water.",
+    "substitutions": {
+      "biryani masala": "garam masala and additional spices",
+      "yogurt": "coconut yogurt for dairy-free",
+      "mixed vegetables": "cauliflower, carrots, peas, beans"
+    },
+    "tags": ["festive", "aromatic", "vegetarian", "rice"]
+  },
+  {
+    "id": "indian_008",
+    "name": "Rogan Josh",
+    "cuisine": "Indian",
+    "diet": ["Non Vegetarian", "Gluten Free"],
+    "difficulty": "Hard",
+    "prep_time": 25,
+    "cook_time": 60,
+    "servings": 4,
+    "calories": 520,
+    "protein": 38,
+    "fat": 30,
+    "carbohydrates": 16,
+    "ingredients": ["lamb", "onion", "yogurt", "ginger", "garlic", "kashmiri chili powder", "coriander", "cumin", "cardamom", "cinnamon", "cloves", "bay leaf", "oil", "salt"],
+    "instructions": [
+      "Heat oil in a heavy pot and sauté sliced onions until golden brown.",
+      "Add ginger-garlic paste and cook for 2 minutes.",
+      "Add lamb pieces and brown on all sides.",
+      "Mix in yogurt, kashmiri chili powder, coriander, cumin, and salt.",
+      "Add whole spices: cardamom, cinnamon, cloves, and bay leaf.",
+      "Cover and simmer on low heat for 45 minutes until lamb is tender.",
+      "Adjust seasoning and cook uncovered for 5 minutes to thicken the gravy.",
+      "Garnish with fresh cilantro and serve hot."
+    ],
+    "cooking_tips": [
+      "Cook on low heat to keep the lamb tender.",
+      "Kashmiri chili gives color without overwhelming heat.",
+      "Browning the lamb adds depth to the curry." 
+    ],
+    "serving_suggestions": "Serve with basmati rice or naan.",
+    "storage_tips": "Refrigerate for 2 days. The flavors improve after resting.",
+    "substitutions": {
+      "lamb": "beef or goat",
+      "yogurt": "coconut milk for dairy-free",
+      "kashmiri chili": "paprika plus mild chili powder"
+    },
+    "tags": ["rich", "spicy", "slow-cooked", "Kashmiri"]
+  },
+  {
+    "id": "indian_009",
+    "name": "Methi Chicken",
+    "cuisine": "Indian",
+    "diet": ["Non Vegetarian", "Gluten Free"],
+    "difficulty": "Medium",
+    "prep_time": 20,
+    "cook_time": 35,
+    "servings": 4,
+    "calories": 380,
+    "protein": 32,
+    "fat": 18,
+    "carbohydrates": 12,
+    "ingredients": ["chicken", "fenugreek leaves", "onion", "tomato", "ginger", "garlic", "green chili", "cumin", "coriander", "turmeric", "garam masala", "cream", "oil", "salt"],
+    "instructions": [
+      "Heat oil in a pan and sauté onions until translucent.",
+      "Add ginger-garlic paste and cook until fragrant.",
+      "Add chicken pieces and brown lightly on all sides.",
+      "Add tomatoes, green chili, turmeric, cumin, and coriander. Cook until tomatoes soften.",
+      "Stir in chopped fenugreek leaves and simmer for 10 minutes.",
+      "Add garam masala and cream, cook for another 5 minutes.",
+      "Adjust seasoning and garnish with fresh fenugreek or cilantro.",
+      "Serve hot with rice or roti."
+    ],
+    "cooking_tips": [
+      "Use fresh methi leaves for the best aroma.",
+      "Simmer gently so the chicken stays tender.",
+      "Add cream at the end to keep the gravy rich and smooth." 
+    ],
+    "serving_suggestions": "Serve with steamed rice or paratha.",
+    "storage_tips": "Refrigerate for 2 days and reheat gently.",
+    "substitutions": {
+      "fenugreek leaves": "fenugreek powder",
+      "cream": "coconut milk",
+      "chicken": "paneer for a vegetarian version"
+    },
+    "tags": ["herby", "spicy", "traditional", "chicken"]
+  },
+  {
+    "id": "indian_010",
+    "name": "Paneer Biryani",
+    "cuisine": "Indian",
+    "diet": ["Vegetarian", "Gluten Free"],
+    "difficulty": "Hard",
+    "prep_time": 25,
+    "cook_time": 55,
+    "servings": 6,
+    "calories": 480,
+    "protein": 18,
+    "fat": 24,
+    "carbohydrates": 58,
+    "ingredients": ["basmati rice", "paneer", "onion", "tomato", "yogurt", "ginger", "garlic", "green chili", "mint", "cilantro", "biryani masala", "saffron", "ghee", "oil", "salt"],
+    "instructions": [
+      "Soak basmati rice for 30 minutes and drain.",
+      "Heat oil and ghee in a large pan, fry sliced onions until deep golden and set aside half for garnish.",
+      "Add ginger-garlic paste and sauté for 1 minute.",
+      "Add tomatoes, yogurt, biryani masala, and cook until oil separates.",
+      "Stir in paneer cubes and cook for 5 minutes.",
+      "Layer half-cooked rice over the paneer mixture, sprinkle chopped mint, cilantro, saffron milk, and fried onions.",
+      "Cover tightly and cook on low heat for 20-25 minutes until rice finishes steaming.",
+      "Gently fluff the biryani, garnish with remaining fried onions, and serve hot."
+    ],
+    "cooking_tips": [
+      "Parboil rice until about 70% cooked before layering.",
+      "Use a heavy pot and seal the lid well to trap steam for dum cooking.",
+      "Brown the onions slowly for the best flavor and texture."
+    ],
+    "serving_suggestions": "Serve with raita and salad.",
+    "storage_tips": "Refrigerate for 2 days and reheat with a splash of water.",
+    "substitutions": {
+      "paneer": "tofu for a vegan version",
+      "yogurt": "coconut yogurt",
+      "ghee": "butter or oil"
+    },
+    "tags": ["vegetarian", "hard", "biryani", "festival"]
+  }
+]

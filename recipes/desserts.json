@@ -1,0 +1,192 @@
+[
+  {
+    "id": "dessert_001",
+    "name": "Chocolate Lava Cake",
+    "cuisine": "American",
+    "diet": ["Vegetarian"],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 12,
+    "servings": 4,
+    "calories": 450,
+    "protein": 8,
+    "fat": 26,
+    "carbohydrates": 52,
+    "ingredients": ["dark chocolate", "butter", "egg", "egg yolk", "sugar", "flour", "salt", "cocoa powder", "vanilla extract"],
+    "instructions": [
+      "Preheat oven to 220°C. Grease ramekins with butter and dust with cocoa powder.",
+      "Melt dark chocolate and butter together in a double boiler or microwave.",
+      "Whisk eggs, egg yolks, and sugar until pale and doubled in volume.",
+      "Fold melted chocolate mixture into egg mixture.",
+      "Gently fold in flour and salt until just combined.",
+      "Pour batter into prepared ramekins, fill 3/4 full.",
+      "Bake for 10-12 minutes — center should be slightly wobbly.",
+      "Let rest 1 minute, then carefully invert onto plates. Serve immediately."
+    ],
+    "cooking_tips": [
+      "The key is underbaking — the center should be liquid.",
+      "You can refrigerate the batter for up to 24 hours before baking.",
+      "Use high quality dark chocolate (70%+) for best results."
+    ],
+    "serving_suggestions": "Serve with vanilla ice cream, fresh berries, or a dusting of powdered sugar.",
+    "storage_tips": "Batter can be stored in ramekins in fridge for 24 hours unbaked.",
+    "substitutions": {
+      "dark chocolate": "milk chocolate or white chocolate",
+      "butter": "coconut oil",
+      "flour": "almond flour for gluten-free"
+    },
+    "tags": ["chocolate", "indulgent", "romantic", "showstopper"]
+  },
+  {
+    "id": "dessert_002",
+    "name": "Classic Tiramisu",
+    "cuisine": "Italian",
+    "diet": ["Vegetarian"],
+    "difficulty": "Medium",
+    "prep_time": 30,
+    "cook_time": 0,
+    "servings": 8,
+    "calories": 380,
+    "protein": 8,
+    "fat": 22,
+    "carbohydrates": 38,
+    "ingredients": ["mascarpone cheese", "egg", "sugar", "espresso", "ladyfinger biscuits", "cocoa powder", "dark rum", "vanilla extract"],
+    "instructions": [
+      "Brew strong espresso, let cool completely, add rum if using.",
+      "Separate eggs. Beat yolks with sugar until pale and thick.",
+      "Fold mascarpone cheese into egg yolk mixture until smooth.",
+      "Beat egg whites to stiff peaks and gently fold into mascarpone mixture.",
+      "Quickly dip ladyfingers in espresso and layer in a dish.",
+      "Spread half the mascarpone cream over the ladyfingers.",
+      "Add another layer of soaked ladyfingers and top with remaining cream.",
+      "Dust generously with cocoa powder and refrigerate for at least 4 hours."
+    ],
+    "cooking_tips": [
+      "Don't over-soak ladyfingers — a quick dip is enough.",
+      "Overnight refrigeration gives the best flavor.",
+      "Use room temperature mascarpone for smooth mixing."
+    ],
+    "serving_suggestions": "Serve chilled directly from the dish. Garnish with chocolate shavings.",
+    "storage_tips": "Refrigerate for up to 3 days. The flavor actually improves overnight.",
+    "substitutions": {
+      "mascarpone": "cream cheese + heavy cream",
+      "rum": "amaretto or coffee liqueur",
+      "ladyfingers": "sponge cake or pound cake"
+    },
+    "tags": ["no-bake", "classic", "coffee", "Italian dessert"]
+  },
+  {
+    "id": "dessert_003",
+    "name": "Mango Kulfi",
+    "cuisine": "Indian",
+    "diet": ["Vegetarian", "Gluten Free"],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 5,
+    "servings": 6,
+    "calories": 220,
+    "protein": 5,
+    "fat": 10,
+    "carbohydrates": 30,
+    "ingredients": ["mango puree", "condensed milk", "heavy cream", "cardamom", "pistachios", "saffron", "rose water"],
+    "instructions": [
+      "Warm 2 tablespoons of cream and dissolve saffron in it.",
+      "In a bowl, mix mango puree and condensed milk.",
+      "Whip remaining heavy cream to soft peaks.",
+      "Fold whipped cream into mango mixture.",
+      "Add cardamom powder, saffron cream, and rose water.",
+      "Pour into kulfi molds or popsicle molds.",
+      "Sprinkle chopped pistachios on top.",
+      "Freeze for at least 6 hours or overnight."
+    ],
+    "cooking_tips": [
+      "Use ripe Alphonso mangoes for authentic flavor.",
+      "The condensed milk adds sweetness — no extra sugar needed.",
+      "Unmold by briefly running warm water over the outside."
+    ],
+    "serving_suggestions": "Serve garnished with chopped pistachios and rose petals.",
+    "storage_tips": "Store in freezer for up to 1 month.",
+    "substitutions": {
+      "mango": "strawberry puree or any fruit puree",
+      "heavy cream": "coconut cream for dairy-free",
+      "condensed milk": "coconut condensed milk"
+    },
+    "tags": ["frozen", "Indian dessert", "summer", "no-bake"]
+  },
+  {
+    "id": "dessert_004",
+    "name": "Banana Foster Pancakes",
+    "cuisine": "American",
+    "diet": ["Vegetarian"],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 20,
+    "servings": 4,
+    "calories": 360,
+    "protein": 10,
+    "fat": 14,
+    "carbohydrates": 52,
+    "ingredients": ["banana", "flour", "egg", "milk", "butter", "sugar", "cinnamon", "vanilla extract", "baking powder", "salt"],
+    "instructions": [
+      "Mash 1 ripe banana and mix with egg, milk, and melted butter.",
+      "Combine flour, baking powder, sugar, cinnamon, and salt.",
+      "Mix wet and dry ingredients until just combined — lumps are okay.",
+      "Heat a non-stick pan over medium heat, lightly grease.",
+      "Pour 1/4 cup batter per pancake. Cook until bubbles form, flip.",
+      "For the banana foster sauce: melt butter, add brown sugar and cinnamon.",
+      "Add sliced bananas and cook for 2 minutes.",
+      "Serve pancakes topped with warm banana foster sauce."
+    ],
+    "cooking_tips": [
+      "Overripe bananas make the sweetest pancakes.",
+      "Don't overmix the batter — lumps give fluffy pancakes.",
+      "Medium heat prevents burning while cooking through."
+    ],
+    "serving_suggestions": "Serve with maple syrup, whipped cream, and a sprinkle of cinnamon.",
+    "storage_tips": "Pancakes keep in fridge for 2 days. Reheat in a pan or toaster.",
+    "substitutions": {
+      "milk": "almond milk or oat milk",
+      "egg": "flax egg (1 tbsp flaxseed + 3 tbsp water)",
+      "flour": "gluten-free flour blend"
+    },
+    "tags": ["breakfast dessert", "banana", "sweet", "kids friendly"]
+  },
+  {
+    "id": "dessert_005",
+    "name": "Gulab Jamun",
+    "cuisine": "Indian",
+    "diet": ["Vegetarian"],
+    "difficulty": "Medium",
+    "prep_time": 20,
+    "cook_time": 30,
+    "servings": 6,
+    "calories": 290,
+    "protein": 5,
+    "fat": 12,
+    "carbohydrates": 42,
+    "ingredients": ["milk powder", "flour", "baking soda", "ghee", "milk", "sugar", "rose water", "cardamom", "saffron", "oil"],
+    "instructions": [
+      "Make sugar syrup: boil sugar, water, cardamom, and saffron. Add rose water.",
+      "Combine milk powder, flour, and baking soda.",
+      "Rub in ghee until mixture resembles breadcrumbs.",
+      "Add milk gradually to form a soft, smooth dough.",
+      "Rest dough for 10 minutes. Shape into smooth balls.",
+      "Heat oil on low-medium heat. Fry gulab jamuns slowly until dark golden.",
+      "Immediately drop hot gulab jamuns into warm sugar syrup.",
+      "Soak for at least 30 minutes before serving."
+    ],
+    "cooking_tips": [
+      "Fry on low heat — the inside must cook through before outside burns.",
+      "Warm sugar syrup absorbs better into hot gulab jamuns.",
+      "Make balls smooth with no cracks to prevent breaking."
+    ],
+    "serving_suggestions": "Serve warm with vanilla ice cream or rabri.",
+    "storage_tips": "Store in syrup at room temperature for 2 days or refrigerate for 1 week.",
+    "substitutions": {
+      "milk powder": "khoya (mawa)",
+      "rose water": "kewra water",
+      "ghee": "butter"
+    },
+    "tags": ["Indian sweets", "festive", "deep fried", "popular"]
+  }
+]

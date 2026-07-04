@@ -1,0 +1,297 @@
+[
+  {
+    "id": "extra_001",
+    "name": "Savory Mushroom Oatmeal",
+    "cuisine": "American",
+    "diet": ["Vegetarian", "Gluten Free"],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 15,
+    "servings": 2,
+    "calories": 310,
+    "protein": 12,
+    "fat": 16,
+    "carbohydrates": 28,
+    "ingredients": ["rolled oats", "mushrooms", "spinach", "onion", "garlic", "vegetable broth", "olive oil", "parmesan cheese", "salt", "black pepper", "thyme"],
+    "instructions": [
+      "Heat olive oil in a saucepan over medium heat.",
+      "Sauté chopped onion and garlic until translucent.",
+      "Add sliced mushrooms and cook until browned.",
+      "Stir in rolled oats and thyme for 1 minute.",
+      "Pour in vegetable broth and simmer for 10 minutes, stirring occasionally.",
+      "Add spinach and cook until wilted.",
+      "Season with salt and pepper, then stir in Parmesan cheese.",
+      "Divide into bowls and finish with extra black pepper." 
+    ],
+    "cooking_tips": [
+      "Use gluten-free oats if needed.",
+      "Keep stirring to prevent the oats from sticking.",
+      "Add a splash of cream or milk if you prefer a creamier texture."
+    ],
+    "serving_suggestions": "Top with fresh herbs or a poached egg for a richer meal.",
+    "storage_tips": "Store refrigerated for up to 2 days and reheat with a little broth.",
+    "substitutions": {
+      "parmesan cheese": "nutritional yeast",
+      "spinach": "kale",
+      "mushrooms": "zucchini"
+    },
+    "tags": ["hearty", "breakfast", "savory", "vegetarian"]
+  },
+  {
+    "id": "extra_002",
+    "name": "Chana Masala",
+    "cuisine": "Indian",
+    "diet": ["Vegetarian", "Vegan", "Gluten Free"],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "calories": 320,
+    "protein": 14,
+    "fat": 12,
+    "carbohydrates": 40,
+    "ingredients": ["chickpeas", "tomato", "onion", "garlic", "ginger", "cumin", "coriander", "turmeric", "garam masala", "green chili", "cilantro", "oil", "salt"],
+    "instructions": [
+      "Heat oil in a pan and add cumin seeds until they crackle.",
+      "Add chopped onion and cook until golden.",
+      "Stir in ginger-garlic paste and cook for 1 minute.",
+      "Add chopped tomatoes, turmeric, coriander powder, and cook until oil separates.",
+      "Add chickpeas, salt, and a little water. Simmer for 15 minutes.",
+      "Stir in garam masala and chopped green chili.",
+      "Cook for 5 more minutes and garnish with cilantro.",
+      "Serve hot with rice or flatbread." 
+    ],
+    "cooking_tips": [
+      "Use canned chickpeas for a quick version.",
+      "Toast your spices briefly to release fuller flavor.",
+      "Adjust chili and lemon to taste for a balanced finish."
+    ],
+    "serving_suggestions": "Pair with basmati rice, naan, or a cucumber raita.",
+    "storage_tips": "Store in the fridge for 3 days; flavors deepen overnight.",
+    "substitutions": {
+      "chickpeas": "kidney beans",
+      "garam masala": "curry powder",
+      "tomato": "tomato puree"
+    },
+    "tags": ["spicy", "comfort food", "protein-rich", "vegan"]
+  },
+  {
+    "id": "extra_003",
+    "name": "Lemon Herb Salmon",
+    "cuisine": "American",
+    "diet": ["Non Vegetarian", "Gluten Free"],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 15,
+    "servings": 2,
+    "calories": 340,
+    "protein": 28,
+    "fat": 22,
+    "carbohydrates": 4,
+    "ingredients": ["salmon fillets", "lemon", "garlic", "dill", "parsley", "olive oil", "salt", "black pepper"],
+    "instructions": [
+      "Preheat oven to 200°C (400°F).",
+      "Place salmon fillets on a baking sheet lined with parchment.",
+      "Drizzle olive oil and lemon juice over the salmon.",
+      "Sprinkle minced garlic, chopped herbs, salt, and pepper.",
+      "Bake for 12-15 minutes until salmon flakes easily.",
+      "Remove from oven and let rest for 2 minutes.",
+      "Serve with extra lemon wedges and fresh herbs." 
+    ],
+    "cooking_tips": [
+      "Do not overcook — salmon should still be moist inside.",
+      "Use fresh lemon for the brightest flavor.",
+      "Baking on parchment makes cleanup easier."
+    ],
+    "serving_suggestions": "Serve with roasted vegetables and a simple salad.",
+    "storage_tips": "Refrigerate for 2 days and reheat gently to avoid drying out.",
+    "substitutions": {
+      "salmon fillets": "trout or cod",
+      "dill": "thyme",
+      "olive oil": "butter"
+    },
+    "tags": ["light", "quick", "healthy", "fish"]
+  },
+  {
+    "id": "extra_004",
+    "name": "Caprese Salad",
+    "cuisine": "Italian",
+    "diet": ["Vegetarian", "Gluten Free"],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 0,
+    "servings": 2,
+    "calories": 220,
+    "protein": 8,
+    "fat": 18,
+    "carbohydrates": 8,
+    "ingredients": ["tomato", "fresh mozzarella", "basil", "olive oil", "balsamic glaze", "salt", "black pepper"],
+    "instructions": [
+      "Slice tomatoes and fresh mozzarella into even rounds.",
+      "Arrange tomato and mozzarella slices alternately on a platter.",
+      "Tuck basil leaves between the layers.",
+      "Drizzle with olive oil and balsamic glaze.",
+      "Season with salt and freshly ground black pepper.",
+      "Serve immediately at room temperature." 
+    ],
+    "cooking_tips": [
+      "Use the ripest tomatoes for the best flavor.",
+      "Let mozzarella come to room temperature before serving.",
+      "A splash of basil oil enhances the dish."
+    ],
+    "serving_suggestions": "Serve as an appetizer with crusty bread.",
+    "storage_tips": "Best eaten immediately. If storing, keep chilled and consume within a few hours.",
+    "substitutions": {
+      "fresh mozzarella": "burrata",
+      "balsamic glaze": "reduced balsamic vinegar",
+      "tomato": "heirloom tomato"
+    },
+    "tags": ["fresh", "salad", "summer", "Italian"]
+  },
+  {
+    "id": "extra_005",
+    "name": "Vegan Black Bean Tacos",
+    "cuisine": "Mexican",
+    "diet": ["Vegan"],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 15,
+    "servings": 4,
+    "calories": 260,
+    "protein": 10,
+    "fat": 9,
+    "carbohydrates": 36,
+    "ingredients": ["black beans", "taco shells", "onion", "garlic", "cumin", "chili powder", "lettuce", "tomato", "avocado", "lime", "cilantro", "olive oil", "salt"],
+    "instructions": [
+      "Heat olive oil in a pan and sauté chopped onion and garlic.",
+      "Add black beans, cumin, chili powder, salt, and a splash of water.",
+      "Simmer for 8-10 minutes until warmed through.",
+      "Mash some of the beans lightly to thicken the mixture.",
+      "Warm taco shells according to package instructions.",
+      "Fill shells with black bean mixture, lettuce, tomato, avocado, and cilantro.",
+      "Squeeze lime juice over the tacos before serving." 
+    ],
+    "cooking_tips": [
+      "Use low-sodium beans and add salt to taste.",
+      "For extra smokiness, add a dash of smoked paprika.",
+      "Crisp the shells in the oven for a better texture."
+    ],
+    "serving_suggestions": "Serve with salsa, guacamole, and pickled onions.",
+    "storage_tips": "Store bean filling separately from shells for up to 3 days.",
+    "substitutions": {
+      "black beans": "pinto beans",
+      "taco shells": "soft tortillas",
+      "avocado": "sliced radish"
+    },
+    "tags": ["vegan", "tacos", "easy", "Mexican"]
+  },
+  {
+    "id": "extra_006",
+    "name": "Shrimp Pad Thai",
+    "cuisine": "Thai",
+    "diet": ["Non Vegetarian"],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 15,
+    "servings": 3,
+    "calories": 430,
+    "protein": 22,
+    "fat": 16,
+    "carbohydrates": 46,
+    "ingredients": ["rice noodles", "shrimp", "bean sprouts", "egg", "green onion", "garlic", "tamarind paste", "fish sauce", "brown sugar", "lime", "peanuts", "oil"],
+    "instructions": [
+      "Soak rice noodles according to package directions until pliable.",
+      "Mix tamarind paste, fish sauce, brown sugar, and lime juice in a bowl.",
+      "Heat oil in a wok, sauté garlic until fragrant.",
+      "Add shrimp and cook until pink, then push to the side.",
+      "Crack egg into the wok and scramble until just set.",
+      "Add drained noodles and sauce, tossing to coat.",
+      "Stir in bean sprouts and green onion, cook for 1-2 minutes.",
+      "Serve topped with chopped peanuts and lime wedges." 
+    ],
+    "cooking_tips": [
+      "Work quickly once the noodles are in the wok.",
+      "Use room-temperature shrimp for even cooking.",
+      "Adjust sweetness and sourness by tasting the sauce."
+    ],
+    "serving_suggestions": "Serve with extra lime wedges and cilantro.",
+    "storage_tips": "Eat fresh. Reheat gently if needed, but noodles may soften.",
+    "substitutions": {
+      "shrimp": "tofu",
+      "fish sauce": "soy sauce",
+      "peanuts": "cashews"
+    },
+    "tags": ["noodle", "Thai", "street food", "savory"]
+  },
+  {
+    "id": "extra_007",
+    "name": "Chocolate Chia Pudding",
+    "cuisine": "American",
+    "diet": ["Vegetarian", "Vegan", "Gluten Free"],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 0,
+    "servings": 4,
+    "calories": 210,
+    "protein": 6,
+    "fat": 13,
+    "carbohydrates": 22,
+    "ingredients": ["chia seeds", "almond milk", "cocoa powder", "maple syrup", "vanilla extract", "banana", "berries"],
+    "instructions": [
+      "In a bowl, whisk together almond milk, cocoa powder, maple syrup, and vanilla.",
+      "Stir in chia seeds until evenly distributed.",
+      "Let the mixture sit for 5 minutes, then stir again to prevent clumps.",
+      "Cover and refrigerate for at least 3 hours or overnight.",
+      "Stir again before serving and top with sliced banana and berries.",
+      "Serve chilled." 
+    ],
+    "cooking_tips": [
+      "Use fresh chia seeds and whisk well to avoid clumping.",
+      "Add a dollop of nut butter for extra richness.",
+      "The pudding thickens as it chills — thin with extra milk if needed."
+    ],
+    "serving_suggestions": "Top with nuts, shredded coconut, or fresh fruit.",
+    "storage_tips": "Refrigerate for up to 4 days.",
+    "substitutions": {
+      "almond milk": "coconut milk",
+      "maple syrup": "honey",
+      "cocoa powder": "carob powder"
+    },
+    "tags": ["dessert", "healthy", "make ahead", "breakfast"]
+  },
+  {
+    "id": "extra_008",
+    "name": "Spinach Strawberry Salad",
+    "cuisine": "American",
+    "diet": ["Vegetarian", "Gluten Free"],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "servings": 4,
+    "calories": 180,
+    "protein": 4,
+    "fat": 10,
+    "carbohydrates": 22,
+    "ingredients": ["baby spinach", "strawberries", "goat cheese", "walnuts", "red onion", "balsamic vinegar", "olive oil", "honey", "salt", "black pepper"],
+    "instructions": [
+      "Toss baby spinach, sliced strawberries, and thinly sliced red onion in a bowl.",
+      "Add crumbled goat cheese and chopped walnuts.",
+      "Whisk together balsamic vinegar, olive oil, honey, salt, and pepper.",
+      "Pour dressing over the salad and toss gently.",
+      "Serve immediately as a fresh side dish." 
+    ],
+    "cooking_tips": [
+      "Use ripe strawberries for the sweetest flavor.",
+      "Toast walnuts lightly for extra crunch.",
+      "Dress the salad just before serving to avoid sogginess."
+    ],
+    "serving_suggestions": "Serve alongside grilled chicken or fish.",
+    "storage_tips": "Prepare components separately and toss before serving.",
+    "substitutions": {
+      "goat cheese": "feta cheese",
+      "walnuts": "almonds",
+      "honey": "maple syrup"
+    },
+    "tags": ["fresh", "salad", "fruit", "spring"]
+  }
+]

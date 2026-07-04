@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>About — PocketChef AI</title>
+  <link rel="icon" type="image/svg+xml" href="{{ url_for('static', filename='icons/favicon.svg') }}">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet" />
+  <link href="{{ url_for('static', filename='css/style.css') }}" rel="stylesheet" />
+  <link href="{{ url_for('static', filename='css/premium.css') }}" rel="stylesheet" />
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg sticky-top" id="mainNavbar">
+  <div class="container">
+    <a class="brand-logo-wrap navbar-brand" href="{{ url_for('index') }}">
+      <svg class="brand-svg-icon" viewBox="0 0 40 40" fill="none">
+        <rect width="40" height="40" rx="10" fill="#16a34a"/>
+        <path d="M12 28 Q12 20 20 18 Q28 20 28 28" stroke="white" stroke-width="2" stroke-linecap="round" fill="none"/>
+        <circle cx="20" cy="14" r="3.5" fill="white"/>
+        <path d="M9 30 L31 30" stroke="rgba(255,255,255,0.5)" stroke-width="1.5" stroke-linecap="round"/>
+      </svg>
+      <div>
+        <span class="brand-name">PocketChef AI</span>
+        <span class="brand-tagline d-block">Your Smart Kitchen Companion</span>
+      </div>
+    </a>
+    <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMain">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarMain">
+      <ul class="navbar-nav ms-auto align-items-center gap-1">
+        <li class="nav-item"><a class="nav-link" href="{{ url_for('index') }}"><i class="bi bi-house me-1"></i>Home</a></li>
+        <li class="nav-item"><a class="nav-link" href="{{ url_for('history') }}"><i class="bi bi-bookmark me-1"></i>Saved</a></li>
+        <li class="nav-item"><a class="nav-link active" href="{{ url_for('about') }}"><i class="bi bi-info-circle me-1"></i>About</a></li>
+        <li class="nav-item ms-2">
+          <button class="btn btn-sm btn-outline-secondary px-2" id="darkModeToggle">
+            <i class="bi bi-moon-stars-fill" id="darkModeIcon"></i>
+          </button>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<!-- Hero -->
+<section class="about-hero">
+  <div class="container text-center">
+    <span class="about-icon">🍳</span>
+    <h1 class="hero-title" style="font-family:'Playfair Display',serif">About PocketChef AI</h1>
+    <p class="hero-subtitle mx-auto" style="max-width:580px">
+      Your smart kitchen companion — an AI-powered cooking assistant that turns any ingredients into
+      delicious meals, powered by IBM Watsonx.ai Granite and RAG technology.
+    </p>
+  </div>
+</section>
+
+<!-- Stats -->
+<section class="py-5 bg-surface">
+  <div class="container">
+    <div class="row g-3 text-center">
+      <div class="col-md-3 col-6">
+        <div class="stat-card glass-card">
+          <div class="stat-icon">🍽️</div>
+          <div class="stat-big">{{ stats.total_recipes }}+</div>
+          <div class="stat-desc">Recipes</div>
+        </div>
+      </div>
+      <div class="col-md-3 col-6">
+        <div class="stat-card glass-card">
+          <div class="stat-icon">🌍</div>
+          <div class="stat-big">{{ stats.cuisines }}</div>
+          <div class="stat-desc">World Cuisines</div>
+        </div>
+      </div>
+      <div class="col-md-3 col-6">
+        <div class="stat-card glass-card">
+          <div class="stat-icon">🥗</div>
+          <div class="stat-big">{{ stats.dietary_options }}</div>
+          <div class="stat-desc">Dietary Options</div>
+        </div>
+      </div>
+      <div class="col-md-3 col-6">
+        <div class="stat-card glass-card">
+          <div class="stat-icon">🤖</div>
+          <div class="stat-big">AI</div>
+          <div class="stat-desc">IBM Granite</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- RAG Architecture -->
+<section class="py-5">
+  <div class="container">
+    <div class="text-center mb-5">
+      <div class="section-tag"><i class="bi bi-diagram-3 me-1"></i>Architecture</div>
+      <h2 class="section-title">RAG Pipeline</h2>
+      <p class="section-subtitle mx-auto">How the AI pipeline works under the hood</p>
+    </div>
+    <div class="architecture-flow glass-card p-4">
+      <div class="row g-3 align-items-center text-center">
+        <div class="col-md-2"><div class="arch-step">
+          <span class="arch-icon">🥕</span>
+          <div class="arch-label">User Ingredients</div>
+        </div></div>
+        <div class="col-md-1 d-none d-md-block text-center">
+          <i class="bi bi-arrow-right fs-3 arch-arrow-animated" style="color:var(--brand-500)"></i>
+        </div>
+        <div class="col-md-2"><div class="arch-step">
+          <span class="arch-icon">🔢</span>
+          <div class="arch-label">Sentence Transformer<br><small>Embedding</small></div>
+        </div></div>
+        <div class="col-md-1 d-none d-md-block text-center">
+          <i class="bi bi-arrow-right fs-3 arch-arrow-animated" style="color:var(--brand-500);animation-delay:0.4s"></i>
+        </div>
+        <div class="col-md-2"><div class="arch-step">
+          <span class="arch-icon">🗄️</span>
+          <div class="arch-label">FAISS Vector DB<br><small>Semantic Search</small></div>
+        </div></div>
+        <div class="col-md-1 d-none d-md-block text-center">
+          <i class="bi bi-arrow-right fs-3 arch-arrow-animated" style="color:var(--brand-500);animation-delay:0.8s"></i>
+        </div>
+        <div class="col-md-2"><div class="arch-step">
+          <span class="arch-icon">🤖</span>
+          <div class="arch-label">IBM Granite<br><small>Generation</small></div>
+        </div></div>
+        <div class="col-md-1 d-none d-md-block text-center">
+          <i class="bi bi-arrow-right fs-3 arch-arrow-animated" style="color:var(--brand-500);animation-delay:1.2s"></i>
+        </div>
+        <div class="col-md-1"><div class="arch-step">
+          <span class="arch-icon">🍽️</span>
+          <div class="arch-label">Recipe!</div>
+        </div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Tech Stack -->
+<section class="py-5 bg-surface">
+  <div class="container">
+    <div class="text-center mb-5">
+      <div class="section-tag"><i class="bi bi-cpu me-1"></i>Stack</div>
+      <h2 class="section-title">Technology Stack</h2>
+    </div>
+    <div class="row g-3">
+      <div class="col-md-4">
+        <div class="tech-card glass-card h-100">
+          <span class="tech-icon">🐍</span>
+          <h5 class="fw-bold mb-3">Backend</h5>
+          <ul class="tech-list">
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i>Python Flask</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i>IBM Watsonx.ai SDK</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i>FAISS Vector Database</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i>Sentence Transformers</li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="tech-card glass-card h-100">
+          <span class="tech-icon">🎨</span>
+          <h5 class="fw-bold mb-3">Frontend</h5>
+          <ul class="tech-list">
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i>HTML5 + CSS3</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i>Bootstrap 5</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i>Vanilla JavaScript</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i>Inter + Playfair Display</li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="tech-card glass-card h-100">
+          <span class="tech-icon">🤖</span>
+          <h5 class="fw-bold mb-3">AI & Data</h5>
+          <ul class="tech-list">
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i>IBM Granite 3 Model</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i>RAG Pipeline</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i>JSON Recipe Dataset</li>
+            <li><i class="bi bi-check-circle-fill text-success me-2"></i>all-MiniLM-L6-v2</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Features -->
+<section class="py-5">
+  <div class="container">
+    <div class="text-center mb-5">
+      <div class="section-tag"><i class="bi bi-stars me-1"></i>Features</div>
+      <h2 class="section-title">Key Features</h2>
+    </div>
+    <div class="row g-4">
+      <div class="col-md-6 col-lg-4">
+        <div class="feature-card glass-card h-100">
+          <i class="bi bi-search fs-3" style="color:var(--brand-500)"></i>
+          <h5 class="mt-2 fw-bold">Semantic Search</h5>
+          <p class="text-muted small">FAISS vector search finds the most relevant recipes based on ingredient meaning, not just keywords.</p>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="feature-card glass-card h-100">
+          <i class="bi bi-robot fs-3" style="color:var(--brand-500)"></i>
+          <h5 class="mt-2 fw-bold">IBM Granite AI</h5>
+          <p class="text-muted small">Granite 3 generates personalised instructions, tips, and substitutions tailored to your exact ingredients.</p>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="feature-card glass-card h-100">
+          <i class="bi bi-arrow-left-right fs-3 text-warning"></i>
+          <h5 class="mt-2 fw-bold">Smart Substitutions</h5>
+          <p class="text-muted small">Missing an ingredient? Get intelligent alternatives — Butter → Olive Oil, Cream → Yogurt, and more.</p>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="feature-card glass-card h-100">
+          <i class="bi bi-recycle fs-3 text-success"></i>
+          <h5 class="mt-2 fw-bold">Food Waste Reduction</h5>
+          <p class="text-muted small">Leftover mode creates recipes from exactly what you have, reducing waste and saving money.</p>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="feature-card glass-card h-100">
+          <i class="bi bi-heart-pulse fs-3 text-danger"></i>
+          <h5 class="mt-2 fw-bold">9 Diet Options</h5>
+          <p class="text-muted small">Supports Vegan, Gluten Free, Keto, Diabetic Friendly, Paleo, and more dietary preferences.</p>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <div class="feature-card glass-card h-100">
+          <i class="bi bi-moon-stars fs-3" style="color:var(--purple)"></i>
+          <h5 class="mt-2 fw-bold">Dark Mode</h5>
+          <p class="text-muted small">Beautiful glassmorphism dark and light themes for a comfortable cooking experience.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer class="app-footer">
+  <div class="container">
+    <div class="d-flex justify-content-between align-items-center flex-wrap gap-2">
+      <p class="mb-0" style="font-size:.82rem;color:rgba(240,253,244,.28)">&copy; {{ current_year }} PocketChef AI — Built with IBM Watsonx.ai</p>
+      <a href="{{ url_for('index') }}" class="btn btn-sm btn-outline-secondary"><i class="bi bi-arrow-left me-1"></i>Back to Home</a>
+    </div>
+  </div>
+</footer>
+
+<div class="toast-container position-fixed bottom-0 end-0 p-3">
+  <div id="appToast" class="toast" role="alert">
+    <div class="toast-header">
+      <i class="bi bi-info-circle text-primary me-2"></i>
+      <strong class="me-auto" id="toastTitle">Notification</strong>
+      <button type="button" class="btn-close" data-bs-dismiss="toast"></button>
+    </div>
+    <div class="toast-body" id="toastBody"></div>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+<script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>

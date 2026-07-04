@@ -1,0 +1,191 @@
+[
+  {
+    "id": "italian_001",
+    "name": "Spaghetti Carbonara",
+    "cuisine": "Italian",
+    "diet": ["Non Vegetarian"],
+    "difficulty": "Medium",
+    "prep_time": 10,
+    "cook_time": 20,
+    "servings": 4,
+    "calories": 480,
+    "protein": 28,
+    "fat": 18,
+    "carbohydrates": 55,
+    "ingredients": ["spaghetti", "egg", "pancetta", "parmesan cheese", "black pepper", "garlic", "salt"],
+    "instructions": [
+      "Cook spaghetti in well-salted boiling water until al dente.",
+      "In a bowl, whisk together eggs and grated Parmesan cheese. Season with black pepper.",
+      "Fry pancetta with garlic in a pan over medium heat until crispy.",
+      "Reserve 1 cup of pasta cooking water before draining.",
+      "Remove pan from heat. Add drained pasta to the pancetta.",
+      "Quickly pour the egg-cheese mixture over pasta, tossing continuously.",
+      "Add pasta water a little at a time to create a creamy sauce.",
+      "Serve immediately with extra Parmesan and black pepper."
+    ],
+    "cooking_tips": [
+      "Never add cream — the creaminess comes from eggs and pasta water.",
+      "Remove the pan from heat before adding eggs to prevent scrambling.",
+      "Use guanciale (cured pork cheek) for the most authentic version."
+    ],
+    "serving_suggestions": "Serve immediately with extra Parmesan and a simple green salad.",
+    "storage_tips": "Best eaten fresh. Can be refrigerated for 1 day but sauce may dry out.",
+    "substitutions": {
+      "pancetta": "bacon or ham",
+      "parmesan": "pecorino romano",
+      "spaghetti": "rigatoni or fettuccine"
+    },
+    "tags": ["classic", "quick", "creamy", "pasta"]
+  },
+  {
+    "id": "italian_002",
+    "name": "Margherita Pizza",
+    "cuisine": "Italian",
+    "diet": ["Vegetarian"],
+    "difficulty": "Medium",
+    "prep_time": 30,
+    "cook_time": 15,
+    "servings": 4,
+    "calories": 350,
+    "protein": 14,
+    "fat": 12,
+    "carbohydrates": 48,
+    "ingredients": ["pizza dough", "tomato sauce", "mozzarella cheese", "fresh basil", "olive oil", "salt", "flour"],
+    "instructions": [
+      "Preheat oven to 250°C (480°F) with a pizza stone or baking sheet inside.",
+      "Stretch pizza dough on a floured surface to desired thickness.",
+      "Spread tomato sauce evenly, leaving a border for the crust.",
+      "Tear mozzarella and distribute over the sauce.",
+      "Drizzle with olive oil and season with salt.",
+      "Bake for 12-15 minutes until crust is golden and cheese is bubbly.",
+      "Remove from oven and immediately top with fresh basil leaves.",
+      "Drizzle with more olive oil and serve immediately."
+    ],
+    "cooking_tips": [
+      "A very hot oven is key to a good pizza crust.",
+      "Don't overload with toppings — less is more for Margherita.",
+      "Add fresh basil after baking to preserve its flavor."
+    ],
+    "serving_suggestions": "Serve hot, cut into slices. Pair with a simple arugula salad.",
+    "storage_tips": "Best eaten fresh. Reheat in oven at 200°C for 5 minutes.",
+    "substitutions": {
+      "mozzarella": "burrata or provolone",
+      "fresh basil": "dried basil or fresh oregano",
+      "pizza dough": "flatbread or tortilla for quick version"
+    },
+    "tags": ["classic", "vegetarian", "popular", "italian"]
+  },
+  {
+    "id": "italian_003",
+    "name": "Risotto ai Funghi",
+    "cuisine": "Italian",
+    "diet": ["Vegetarian", "Gluten Free"],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 35,
+    "servings": 4,
+    "calories": 380,
+    "protein": 10,
+    "fat": 14,
+    "carbohydrates": 54,
+    "ingredients": ["arborio rice", "mushrooms", "onion", "garlic", "white wine", "vegetable broth", "parmesan cheese", "butter", "olive oil", "thyme", "salt", "black pepper"],
+    "instructions": [
+      "Heat vegetable broth in a saucepan and keep warm.",
+      "Sauté mushrooms in olive oil until golden. Season and set aside.",
+      "In another pan, sweat onions and garlic in butter until soft.",
+      "Add arborio rice and toast for 2 minutes, stirring constantly.",
+      "Pour in white wine and stir until absorbed.",
+      "Add warm broth one ladle at a time, stirring constantly until absorbed.",
+      "Continue for 18-20 minutes until rice is creamy and al dente.",
+      "Stir in mushrooms, Parmesan, and remaining butter. Season to taste."
+    ],
+    "cooking_tips": [
+      "Never stop stirring — it releases the starch that makes risotto creamy.",
+      "Add broth warm, not cold.",
+      "The final addition of butter and cheese (mantecatura) is what makes it silky."
+    ],
+    "serving_suggestions": "Serve immediately in warmed bowls. Garnish with truffle oil for luxury.",
+    "storage_tips": "Risotto doesn't store well. Best made and eaten immediately.",
+    "substitutions": {
+      "arborio rice": "carnaroli or vialone nano",
+      "white wine": "dry vermouth or extra broth",
+      "parmesan": "grana padano"
+    },
+    "tags": ["creamy", "vegetarian", "comfort", "elegant"]
+  },
+  {
+    "id": "italian_004",
+    "name": "Chicken Piccata",
+    "cuisine": "Italian",
+    "diet": ["Non Vegetarian", "Gluten Free"],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 20,
+    "servings": 4,
+    "calories": 340,
+    "protein": 42,
+    "fat": 14,
+    "carbohydrates": 12,
+    "ingredients": ["chicken breast", "lemon", "capers", "garlic", "butter", "olive oil", "flour", "white wine", "parsley", "salt", "pepper", "chicken broth"],
+    "instructions": [
+      "Pound chicken breasts thin between plastic wrap.",
+      "Season with salt and pepper and dredge in flour, shake off excess.",
+      "Heat olive oil in a skillet over medium-high heat.",
+      "Cook chicken 3 minutes per side until golden. Transfer to plate.",
+      "In the same pan, sauté garlic briefly.",
+      "Add white wine and chicken broth, scraping up any brown bits.",
+      "Add lemon juice, capers, and butter. Simmer until sauce thickens.",
+      "Return chicken to sauce, simmer 2 minutes, garnish with parsley."
+    ],
+    "cooking_tips": [
+      "Pounding chicken ensures even cooking.",
+      "Don't skip the flour — it helps create the sauce.",
+      "Use fresh lemon juice for bright, fresh flavor."
+    ],
+    "serving_suggestions": "Serve over angel hair pasta or with roasted vegetables.",
+    "storage_tips": "Refrigerate for up to 3 days. Reheat gently to avoid drying out.",
+    "substitutions": {
+      "chicken": "veal scallopini or fish fillets",
+      "capers": "green olives (chopped)",
+      "white wine": "extra lemon juice and broth"
+    },
+    "tags": ["quick", "elegant", "tangy", "chicken"]
+  },
+  {
+    "id": "italian_005",
+    "name": "Penne Arrabbiata",
+    "cuisine": "Italian",
+    "diet": ["Vegetarian", "Vegan"],
+    "difficulty": "Easy",
+    "prep_time": 5,
+    "cook_time": 20,
+    "servings": 4,
+    "calories": 320,
+    "protein": 10,
+    "fat": 8,
+    "carbohydrates": 58,
+    "ingredients": ["penne pasta", "tomato", "garlic", "red chili", "olive oil", "parsley", "salt", "sugar"],
+    "instructions": [
+      "Cook penne in salted boiling water until al dente.",
+      "Heat olive oil in a pan over medium heat.",
+      "Add sliced garlic and red chili flakes. Cook until garlic is fragrant.",
+      "Add crushed tomatoes, salt, and a pinch of sugar.",
+      "Simmer sauce for 15 minutes until thickened.",
+      "Toss drained pasta with the sauce.",
+      "Garnish with fresh parsley and serve hot."
+    ],
+    "cooking_tips": [
+      "Arrabbiata means 'angry' in Italian — make it as spicy as you like.",
+      "Save pasta water to adjust sauce consistency.",
+      "Use San Marzano tomatoes for best flavor."
+    ],
+    "serving_suggestions": "Serve with crusty bread and a green salad.",
+    "storage_tips": "Sauce keeps for 3 days. Cook pasta fresh when serving.",
+    "substitutions": {
+      "penne": "rigatoni or ziti",
+      "fresh tomato": "canned crushed tomatoes",
+      "red chili": "chili paste or cayenne pepper"
+    },
+    "tags": ["spicy", "vegan", "quick", "simple"]
+  }
+]

@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>History & Favorites — PocketChef AI</title>
+  <link rel="icon" type="image/svg+xml" href="{{ url_for('static', filename='icons/favicon.svg') }}">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet" />
+  <link href="{{ url_for('static', filename='css/style.css') }}" rel="stylesheet" />
+  <link href="{{ url_for('static', filename='css/premium.css') }}" rel="stylesheet" />
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg sticky-top" id="mainNavbar">
+  <div class="container">
+    <a class="brand-logo-wrap navbar-brand" href="{{ url_for('index') }}">
+      <svg class="brand-svg-icon" viewBox="0 0 40 40" fill="none">
+        <rect width="40" height="40" rx="10" fill="#16a34a"/>
+        <path d="M12 28 Q12 20 20 18 Q28 20 28 28" stroke="white" stroke-width="2" stroke-linecap="round" fill="none"/>
+        <circle cx="20" cy="14" r="3.5" fill="white"/>
+        <path d="M9 30 L31 30" stroke="rgba(255,255,255,0.5)" stroke-width="1.5" stroke-linecap="round"/>
+      </svg>
+      <div>
+        <span class="brand-name">PocketChef AI</span>
+        <span class="brand-tagline d-block">Your Smart Kitchen Companion</span>
+      </div>
+    </a>
+    <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMain">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarMain">
+      <ul class="navbar-nav ms-auto align-items-center gap-1">
+        <li class="nav-item"><a class="nav-link" href="{{ url_for('index') }}"><i class="bi bi-house me-1"></i>Home</a></li>
+        <li class="nav-item"><a class="nav-link active" href="{{ url_for('history') }}"><i class="bi bi-bookmark me-1"></i>Saved</a></li>
+        <li class="nav-item"><a class="nav-link" href="{{ url_for('about') }}"><i class="bi bi-info-circle me-1"></i>About</a></li>
+        <li class="nav-item ms-2">
+          <button class="btn btn-sm btn-outline-secondary px-2" id="darkModeToggle">
+            <i class="bi bi-moon-stars-fill" id="darkModeIcon"></i>
+          </button>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div class="container py-5">
+
+  <div class="d-flex justify-content-between align-items-center mb-4 flex-wrap gap-2">
+    <div>
+      <h1 class="h2 mb-1 fw-bold" style="font-family:'Playfair Display',serif">
+        <i class="bi bi-bookmark me-2" style="color:var(--brand-500)"></i>History & Favorites
+      </h1>
+      <p class="text-muted mb-0 small">Your cooking journey and saved recipes</p>
+    </div>
+    <div class="d-flex align-items-center gap-2 flex-wrap">
+      <div class="history-search-wrap">
+        <i class="bi bi-search history-search-icon"></i>
+        <input type="text" class="form-control history-search-input"
+          id="historySearchInput"
+          placeholder="Search saved recipes…"
+          autocomplete="off" />
+      </div>
+      {% if history %}
+      <button class="btn btn-sm btn-outline-danger" id="clearHistoryBtn">
+        <i class="bi bi-trash me-1"></i>Clear History
+      </button>
+      {% endif %}
+    </div>
+  </div>
+
+  <ul class="nav nav-pills mb-4 gap-1" id="historyTabs">
+    <li class="nav-item">
+      <button class="nav-link active px-4" data-bs-toggle="pill" data-bs-target="#historyTab">
+        <i class="bi bi-clock me-1"></i>Recent
+        <span class="badge ms-2" style="background:var(--brand-500)">{{ history|length }}</span>
+      </button>
+    </li>
+    <li class="nav-item">
+      <button class="nav-link px-4" data-bs-toggle="pill" data-bs-target="#favoritesTab">
+        <i class="bi bi-heart me-1"></i>Favorites
+        <span class="badge bg-danger ms-2">{{ favorites|length }}</span>
+      </button>
+    </li>
+  </ul>
+
+  <div class="tab-content">
+
+    <div class="tab-pane fade show active" id="historyTab">
+      {% if history %}
+      <div class="row g-3">
+        {% for item in history %}
+        <div class="col-md-6 col-lg-4">
+          <div class="history-card glass-card history-filterable">
+            <div class="d-flex justify-content-between align-items-start mb-2">
+              <div>
+                <h6 class="mb-1 fw-bold">{{ item.recipe_name }}</h6>
+                <span class="text-muted small"><i class="bi bi-globe2 me-1"></i>{{ item.cuisine }}</span>
+              </div>
+              <span class="badge rounded-pill px-3" style="background:var(--brand-500)">{{ item.calories }} cal</span>
+            </div>
+            <hr class="my-2" style="border-color:var(--border)" />
+            <p class="small text-muted mb-2">
+              <i class="bi bi-basket me-1"></i>
+              {{ item.ingredients_used[:4]|join(', ') | capitalize }}
+              {% if item.ingredients_used|length > 4 %} +{{ item.ingredients_used|length - 4 }} more{% endif %}
+            </p>
+            <div class="d-flex justify-content-between align-items-center">
+              <small class="text-muted"><i class="bi bi-calendar3 me-1"></i>{{ item.timestamp[:10] }}</small>
+              <a href="/recipe/{{ item.recipe_id }}" class="btn btn-sm btn-primary">
+                View <i class="bi bi-arrow-right ms-1"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+      {% else %}
+      <div class="empty-state text-center py-5">
+        <span class="empty-icon">🕐</span>
+        <h4 class="mt-2 fw-bold">No history yet</h4>
+        <p class="text-muted small">Start searching for recipes to build your cooking history.</p>
+        <a href="{{ url_for('index') }}" class="btn btn-primary mt-2"><i class="bi bi-search me-1"></i>Find Recipes</a>
+      </div>
+      {% endif %}
+    </div>
+
+    <div class="tab-pane fade" id="favoritesTab">
+      {% if favorites %}
+      <div class="row g-3">
+        {% for item in favorites %}
+        <div class="col-md-6 col-lg-4">
+          <div class="history-card glass-card history-filterable">
+            <div class="d-flex justify-content-between align-items-start mb-2">
+              <div>
+                <h6 class="mb-1 fw-bold"><i class="bi bi-heart-fill text-danger me-1"></i>{{ item.recipe_name }}</h6>
+                <span class="text-muted small"><i class="bi bi-globe2 me-1"></i>{{ item.cuisine }}</span>
+              </div>
+              <span class="badge bg-{{ 'success' if item.difficulty == 'Easy' else 'warning' if item.difficulty == 'Medium' else 'danger' }}">
+                {{ item.difficulty }}
+              </span>
+            </div>
+            <hr class="my-2" style="border-color:var(--border)" />
+            <div class="d-flex justify-content-between align-items-center">
+              <small class="text-muted">
+                <i class="bi bi-calendar3 me-1"></i>{{ item.timestamp[:10] }}
+                <span class="ms-2"><i class="bi bi-fire me-1"></i>{{ item.calories }} cal</span>
+              </small>
+              <div class="d-flex gap-1">
+                <button class="btn btn-sm btn-outline-danger" onclick="removeFavorite('{{ item.recipe_id }}', this)">
+                  <i class="bi bi-trash"></i>
+                </button>
+                <a href="/recipe/{{ item.recipe_id }}" class="btn btn-sm btn-primary">
+                  View <i class="bi bi-arrow-right ms-1"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+      {% else %}
+      <div class="empty-state text-center py-5">
+        <span class="empty-icon">❤️</span>
+        <h4 class="mt-2 fw-bold">No favorites yet</h4>
+        <p class="text-muted small">Save recipes you love to access them quickly.</p>
+        <a href="{{ url_for('index') }}" class="btn btn-primary mt-2"><i class="bi bi-search me-1"></i>Discover Recipes</a>
+      </div>
+      {% endif %}
+    </div>
+
+  </div>
+</div>
+
+<footer class="app-footer">
+  <div class="container">
+    <div class="d-flex justify-content-between align-items-center flex-wrap gap-2">
+      <p class="mb-0" style="font-size:.82rem;color:rgba(240,253,244,.28)">&copy; {{ current_year }} PocketChef AI — Built with IBM Watsonx.ai</p>
+      <a href="{{ url_for('index') }}" class="btn btn-sm btn-outline-secondary"><i class="bi bi-arrow-left me-1"></i>Back to Home</a>
+    </div>
+  </div>
+</footer>
+
+<div class="toast-container position-fixed bottom-0 end-0 p-3">
+  <div id="appToast" class="toast" role="alert">
+    <div class="toast-header">
+      <i class="bi bi-info-circle text-primary me-2"></i>
+      <strong class="me-auto" id="toastTitle">Notification</strong>
+      <button type="button" class="btn-close" data-bs-dismiss="toast"></button>
+    </div>
+    <div class="toast-body" id="toastBody"></div>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+<script src="{{ url_for('static', filename='js/recipe-features.js') }}"></script>
+<script src="{{ url_for('static', filename='js/script.js') }}"></script>
+<script>
+  const clearBtn = document.getElementById('clearHistoryBtn');
+  if (clearBtn) {
+    clearBtn.addEventListener('click', async () => {
+      if (!confirm('Clear all recipe history?')) return;
+      const res = await fetch('/api/history/clear', { method: 'POST' });
+      const data = await res.json();
+      if (data.status === 'cleared') {
+        showToast('Cleared', 'Your recipe history has been cleared.');
+        setTimeout(() => location.reload(), 900);
+      }
+    });
+  }
+
+  async function removeFavorite(recipeId, btn) {
+    const res = await fetch('/api/favorites/remove', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ recipe_id: recipeId })
+    });
+    const data = await res.json();
+    if (data.status === 'removed') {
+      btn.closest('.col-md-6').remove();
+      showToast('Removed', data.message);
+    }
+  }
+</script>
+</body>
+</html>
