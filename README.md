@@ -49,7 +49,20 @@ Personalized Recipe + Instructions
 5. **Generation**: IBM Granite generates personalized instructions
 
 ---
+## ☁️ IBM Technologies Used
 
+This project is built using IBM Cloud's AI services and demonstrates an **Agentic AI** solution for intelligent recipe preparation.
+
+| IBM Technology | Purpose |
+|---------------|---------|
+| **IBM watsonx.ai** | Generates intelligent recipe instructions and cooking guidance |
+| **IBM Granite 3 8B Instruct** | Foundation model used for AI recipe generation |
+| **IBM Cloud API** | Secure communication with IBM AI services |
+| **Retrieval-Augmented Generation (RAG)** | Retrieves relevant recipes before AI generation |
+| **FAISS Vector Database** | Performs semantic similarity search on recipe data |
+| **Sentence Transformers** | Converts ingredient queries into vector embeddings |
+| **Flask** | Backend framework that connects the frontend with IBM Watsonx.ai |
+---
 ## 🛠️ Technology Stack
 
 ### Backend
@@ -308,7 +321,7 @@ from app import app as application
 ## 🌙 Dark Mode
 
 ![Dark Mode](screenshots/Dark%20mode.png.png)
-
+---
 ## 🔮 Future Enhancements
 
 - [ ] Multi-language support (Hindi, Spanish, French)
