@@ -58,10 +58,15 @@ This project is built using IBM Cloud's AI services and demonstrates an **Agenti
 | **IBM watsonx.ai** | Generates intelligent recipe instructions and cooking guidance |
 | **IBM Granite 3 8B Instruct** | Foundation model used for AI recipe generation |
 | **IBM Cloud API** | Secure communication with IBM AI services |
+---
+## 🤖 Supporting Technologies
+
+| Technology | Purpose |
+|------------|---------|
 | **Retrieval-Augmented Generation (RAG)** | Retrieves relevant recipes before AI generation |
 | **FAISS Vector Database** | Performs semantic similarity search on recipe data |
 | **Sentence Transformers** | Converts ingredient queries into vector embeddings |
-| **Flask** | Backend framework that connects the frontend with IBM Watsonx.ai |
+| **Flask** | Backend framework connecting the web application with IBM watsonx.ai |
 ---
 ## 🛠️ Technology Stack
 
