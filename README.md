@@ -261,18 +261,53 @@ from app import app as application
 
 ---
 
-## 📸 Screenshots
+# 📸 Screenshots
 
-| Page | Description |
-|---|---|
-| Homepage | Hero, ingredient input, cuisine categories, popular recipes |
-| Search Results | AI instructions panel, recipe cards with match % |
-| Recipe Detail | Full recipe with step-by-step instructions |
-| History & Favorites | Saved recipes and search history |
+## 🏠 Home Page
 
-*Add screenshots to `screenshots/` directory*
+![Home](screenshots/Home.png.png)
 
 ---
+
+## ⚙️ How It Works
+
+![How It Works](screenshots/How%20it%20works.png.png)
+
+---
+
+## 🤖 AI Thinking Animation
+
+![Thinking](screenshots/Thinking%20animation.png.png)
+
+---
+
+## 🍽️ Recipe Result 1
+
+![Result 1](screenshots/Result%201.png.png)
+
+---
+
+## 🍽️ Recipe Result 2
+
+![Result 2](screenshots/Result%202.png.png)
+
+---
+
+## 🍽️ Recipe Result 3
+
+![Result 3](screenshots/Result%203.png.png)
+
+---
+
+## ❤️ Saved Recipes
+
+![Saved](screenshots/saved.png.png)
+
+---
+
+## 🌙 Dark Mode
+
+![Dark Mode](screenshots/Dark%20mode.png.png)
 
 ## 🔮 Future Enhancements
 
