@@ -554,7 +554,9 @@ function buildAISectionCards(text) {
     return `<p style="margin:.2rem 0;font-size:.88rem;color:var(--text-secondary)">${f}</p>`;
   }).join("");
 
-  const cardsHTML = sections.map((sec, idx) => {
+  const cardsHTML = sections
+    .filter(sec => sec.meta.title !== "Substitutions")
+    .map((sec, idx) => {
     const contentLines = sec.lines.join("\n").trim();
     const contentHTML = formatSectionContent(contentLines, sec.meta.title);
     // Open first card by default (class added here; JS will also handle it)
