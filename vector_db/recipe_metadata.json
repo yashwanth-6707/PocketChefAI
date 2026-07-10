@@ -1,0 +1,2972 @@
+[
+  {
+    "id": "breakfast_001",
+    "name": "Avocado Toast with Poached Eggs",
+    "cuisine": "American",
+    "diet": [
+      "Vegetarian",
+      "Dairy Free"
+    ],
+    "difficulty": "Easy",
+    "prep_time": 5,
+    "cook_time": 10,
+    "servings": 2,
+    "calories": 340,
+    "protein": 16,
+    "fat": 22,
+    "carbohydrates": 24,
+    "ingredients": [
+      "bread",
+      "avocado",
+      "egg",
+      "lemon",
+      "olive oil",
+      "red pepper flakes",
+      "salt",
+      "black pepper",
+      "garlic"
+    ],
+    "instructions": [
+      "Toast bread slices until golden and crispy.",
+      "Mash avocado with lemon juice, salt, and pepper.",
+      "Rub toast with a halved garlic clove while warm.",
+      "Spread mashed avocado generously on toast.",
+      "For poached eggs: bring water to a gentle simmer with a splash of vinegar.",
+      "Create a gentle swirl in water, crack egg into center.",
+      "Poach for 3-4 minutes until white is set but yolk is runny.",
+      "Place poached egg on avocado toast, drizzle with olive oil, add red pepper flakes."
+    ],
+    "cooking_tips": [
+      "Add vinegar to poaching water to help whites hold together.",
+      "Fresh eggs poach better than older eggs.",
+      "Add everything bagel seasoning for extra flavor."
+    ],
+    "serving_suggestions": "Serve immediately with a side of fresh fruit or a small green salad.",
+    "storage_tips": "Best eaten immediately. Avocado browns quickly when exposed to air.",
+    "substitutions": {
+      "bread": "sourdough or gluten-free bread",
+      "egg": "scrambled tofu for vegan",
+      "avocado": "hummus for avocado-free version"
+    },
+    "tags": [
+      "healthy",
+      "quick",
+      "trendy",
+      "nutritious"
+    ]
+  },
+  {
+    "id": "breakfast_002",
+    "name": "Masala Omelette",
+    "cuisine": "Indian",
+    "diet": [
+      "Non Vegetarian",
+      "Gluten Free",
+      "Low Carb"
+    ],
+    "difficulty": "Easy",
+    "prep_time": 5,
+    "cook_time": 10,
+    "servings": 2,
+    "calories": 220,
+    "protein": 18,
+    "fat": 14,
+    "carbohydrates": 6,
+    "ingredients": [
+      "egg",
+      "onion",
+      "tomato",
+      "green chili",
+      "coriander leaves",
+      "turmeric",
+      "salt",
+      "butter",
+      "black pepper"
+    ],
+    "instructions": [
+      "Beat eggs well with salt and a pinch of turmeric.",
+      "Add finely chopped onion, tomato, green chili, and coriander.",
+      "Mix everything together.",
+      "Heat butter in a pan over medium heat.",
+      "Pour egg mixture into the pan, spreading evenly.",
+      "Let cook undisturbed for 2 minutes until bottom is set.",
+      "Fold omelette in half and cook for 1 more minute.",
+      "Serve hot with toast or bread."
+    ],
+    "cooking_tips": [
+      "Beat eggs properly for a fluffy omelette.",
+      "Don't overfill — the omelette won't fold properly.",
+      "Medium heat prevents rubbery eggs."
+    ],
+    "serving_suggestions": "Serve with buttered toast and masala chai.",
+    "storage_tips": "Best eaten immediately. Eggs get rubbery when reheated.",
+    "substitutions": {
+      "butter": "oil or ghee",
+      "egg": "3 egg whites for lighter version",
+      "green chili": "any chili or black pepper"
+    },
+    "tags": [
+      "quick",
+      "protein-rich",
+      "Indian breakfast",
+      "everyday"
+    ]
+  },
+  {
+    "id": "breakfast_003",
+    "name": "Overnight Oats",
+    "cuisine": "American",
+    "diet": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free",
+      "High Protein"
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 0,
+    "servings": 2,
+    "calories": 290,
+    "protein": 12,
+    "fat": 8,
+    "carbohydrates": 46,
+    "ingredients": [
+      "oats",
+      "milk",
+      "yogurt",
+      "chia seeds",
+      "banana",
+      "berries",
+      "honey",
+      "vanilla extract",
+      "cinnamon"
+    ],
+    "instructions": [
+      "In a mason jar or bowl, combine rolled oats and chia seeds.",
+      "Add milk and yogurt. Mix well.",
+      "Add vanilla extract, cinnamon, and honey.",
+      "Stir until everything is well combined.",
+      "Top with sliced banana and berries.",
+      "Cover and refrigerate overnight (at least 6 hours).",
+      "In the morning, stir and add a little milk if too thick.",
+      "Add fresh toppings and enjoy cold or warmed up."
+    ],
+    "cooking_tips": [
+      "Use at least a 1:1.5 ratio of oats to liquid.",
+      "Steel-cut oats need 24 hours soaking time.",
+      "Add toppings fresh in the morning for best texture."
+    ],
+    "serving_suggestions": "Serve cold in summer or warm in winter. Top with nut butter for extra protein.",
+    "storage_tips": "Refrigerate for up to 5 days without toppings.",
+    "substitutions": {
+      "milk": "almond milk, oat milk, or coconut milk",
+      "yogurt": "coconut yogurt for dairy-free",
+      "honey": "maple syrup for vegan"
+    },
+    "tags": [
+      "meal prep",
+      "no-cook",
+      "healthy",
+      "fiber-rich"
+    ]
+  },
+  {
+    "id": "breakfast_004",
+    "name": "Poha (Flattened Rice Breakfast)",
+    "cuisine": "Indian",
+    "diet": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free"
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 15,
+    "servings": 3,
+    "calories": 260,
+    "protein": 6,
+    "fat": 8,
+    "carbohydrates": 42,
+    "ingredients": [
+      "flattened rice (poha)",
+      "onion",
+      "potato",
+      "mustard seeds",
+      "turmeric",
+      "green chili",
+      "curry leaves",
+      "peanuts",
+      "lemon",
+      "coriander",
+      "sugar",
+      "salt",
+      "oil"
+    ],
+    "instructions": [
+      "Wash poha gently and drain. Let sit for 5 minutes until softened.",
+      "Season with salt, turmeric, and a pinch of sugar. Set aside.",
+      "Heat oil, add mustard seeds and let them splutter.",
+      "Add peanuts and fry until golden.",
+      "Add curry leaves, green chili, and onions. Cook until soft.",
+      "Add diced potato and cook covered for 5 minutes.",
+      "Add the seasoned poha and mix gently.",
+      "Cook covered for 3-4 minutes. Finish with lemon juice and coriander."
+    ],
+    "cooking_tips": [
+      "Don't over-soak poha — it should be just softened, not mushy.",
+      "Use thick poha for best texture.",
+      "The sugar balances the sour-spicy flavors."
+    ],
+    "serving_suggestions": "Serve hot with coconut chutney and a cup of chai.",
+    "storage_tips": "Best eaten fresh. Can be refrigerated for 1 day.",
+    "substitutions": {
+      "potato": "peas or sweet corn",
+      "peanuts": "cashews",
+      "curry leaves": "bay leaves"
+    },
+    "tags": [
+      "Indian breakfast",
+      "quick",
+      "light",
+      "popular"
+    ]
+  },
+  {
+    "id": "breakfast_005",
+    "name": "French Toast",
+    "cuisine": "American",
+    "diet": [
+      "Vegetarian"
+    ],
+    "difficulty": "Easy",
+    "prep_time": 5,
+    "cook_time": 15,
+    "servings": 4,
+    "calories": 280,
+    "protein": 10,
+    "fat": 12,
+    "carbohydrates": 35,
+    "ingredients": [
+      "bread",
+      "egg",
+      "milk",
+      "cinnamon",
+      "vanilla extract",
+      "sugar",
+      "butter",
+      "maple syrup"
+    ],
+    "instructions": [
+      "Beat eggs with milk, cinnamon, vanilla extract, and sugar.",
+      "Heat butter in a pan over medium heat.",
+      "Dip bread slices in egg mixture, coating both sides.",
+      "Place soaked bread in the pan.",
+      "Cook 2-3 minutes per side until golden brown.",
+      "Repeat for remaining bread slices.",
+      "Dust with powdered sugar and serve with maple syrup.",
+      "Add fresh berries or sliced banana on the side."
+    ],
+    "cooking_tips": [
+      "Use day-old or slightly stale bread — it absorbs better.",
+      "Thick-cut brioche or challah makes the best French toast.",
+      "Medium heat prevents burning while cooking through."
+    ],
+    "serving_suggestions": "Serve with maple syrup, fresh berries, and whipped cream.",
+    "storage_tips": "Refrigerate for 2 days. Reheat in a pan or toaster.",
+    "substitutions": {
+      "milk": "almond milk or coconut milk",
+      "butter": "coconut oil",
+      "bread": "gluten-free bread or challah"
+    },
+    "tags": [
+      "classic",
+      "sweet",
+      "kids friendly",
+      "weekend breakfast"
+    ]
+  },
+  {
+    "id": "chinese_001",
+    "name": "Kung Pao Chicken",
+    "cuisine": "Chinese",
+    "diet": [
+      "Non Vegetarian",
+      "Gluten Free"
+    ],
+    "difficulty": "Medium",
+    "prep_time": 20,
+    "cook_time": 15,
+    "servings": 4,
+    "calories": 380,
+    "protein": 34,
+    "fat": 18,
+    "carbohydrates": 22,
+    "ingredients": [
+      "chicken",
+      "peanuts",
+      "dried red chilies",
+      "soy sauce",
+      "garlic",
+      "ginger",
+      "green onion",
+      "sesame oil",
+      "cornstarch",
+      "sugar",
+      "vinegar",
+      "oil"
+    ],
+    "instructions": [
+      "Cut chicken into bite-sized cubes. Marinate with soy sauce and cornstarch.",
+      "Mix sauce: soy sauce, vinegar, sugar, sesame oil, and cornstarch.",
+      "Heat oil in a wok over high heat.",
+      "Stir-fry dried chilies and Sichuan peppercorns for 30 seconds.",
+      "Add marinated chicken and cook until golden.",
+      "Add garlic and ginger, stir-fry for 1 minute.",
+      "Pour in sauce mixture and toss to coat.",
+      "Add peanuts and green onions, toss and serve immediately."
+    ],
+    "cooking_tips": [
+      "High heat is essential for proper wok cooking.",
+      "Have all ingredients prepped before starting — it cooks fast.",
+      "Toast peanuts beforehand for better flavor."
+    ],
+    "serving_suggestions": "Serve over steamed white rice or fried rice.",
+    "storage_tips": "Refrigerate for up to 2 days. Best eaten fresh.",
+    "substitutions": {
+      "chicken": "tofu or shrimp",
+      "peanuts": "cashews or almonds",
+      "soy sauce": "tamari for gluten-free"
+    },
+    "tags": [
+      "spicy",
+      "classic",
+      "wok",
+      "quick"
+    ]
+  },
+  {
+    "id": "chinese_002",
+    "name": "Egg Fried Rice",
+    "cuisine": "Chinese",
+    "diet": [
+      "Vegetarian"
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 15,
+    "servings": 4,
+    "calories": 340,
+    "protein": 14,
+    "fat": 10,
+    "carbohydrates": 52,
+    "ingredients": [
+      "rice",
+      "egg",
+      "onion",
+      "garlic",
+      "soy sauce",
+      "green onion",
+      "sesame oil",
+      "oil",
+      "salt",
+      "white pepper"
+    ],
+    "instructions": [
+      "Use day-old cold rice for best results.",
+      "Beat eggs with a pinch of salt.",
+      "Heat oil in a wok over high heat.",
+      "Scramble eggs in the wok, break into small pieces, set aside.",
+      "Add more oil, stir-fry garlic and onions until fragrant.",
+      "Add cold rice and stir-fry vigorously, breaking up any clumps.",
+      "Add scrambled eggs back and toss together.",
+      "Season with soy sauce, white pepper, and sesame oil. Top with green onions."
+    ],
+    "cooking_tips": [
+      "Cold, day-old rice is key — fresh rice gets mushy.",
+      "Cook on very high heat for the 'wok hei' smoky flavor.",
+      "Keep everything moving in the wok."
+    ],
+    "serving_suggestions": "Serve as a main dish or as a side with other Chinese dishes.",
+    "storage_tips": "Refrigerate for up to 3 days. Reheat in a hot wok.",
+    "substitutions": {
+      "egg": "tofu scramble for vegan version",
+      "soy sauce": "tamari",
+      "white rice": "brown rice or cauliflower rice"
+    },
+    "tags": [
+      "leftover friendly",
+      "quick",
+      "everyday",
+      "budget"
+    ]
+  },
+  {
+    "id": "chinese_003",
+    "name": "Sweet and Sour Pork",
+    "cuisine": "Chinese",
+    "diet": [
+      "Non Vegetarian"
+    ],
+    "difficulty": "Medium",
+    "prep_time": 25,
+    "cook_time": 20,
+    "servings": 4,
+    "calories": 420,
+    "protein": 28,
+    "fat": 16,
+    "carbohydrates": 48,
+    "ingredients": [
+      "pork",
+      "bell pepper",
+      "pineapple",
+      "onion",
+      "garlic",
+      "vinegar",
+      "tomato ketchup",
+      "soy sauce",
+      "sugar",
+      "cornstarch",
+      "egg",
+      "oil"
+    ],
+    "instructions": [
+      "Cut pork into chunks, marinate with soy sauce for 15 minutes.",
+      "Coat pork pieces in egg then cornstarch.",
+      "Deep fry pork until golden and crispy. Set aside.",
+      "Make sauce: mix ketchup, vinegar, sugar, soy sauce, and water.",
+      "Stir-fry onions, bell peppers, and pineapple for 2 minutes.",
+      "Add sauce and bring to a boil.",
+      "Add fried pork and toss to coat.",
+      "Thicken with cornstarch slurry if needed."
+    ],
+    "cooking_tips": [
+      "Double frying pork makes it extra crispy.",
+      "Add pork at the last minute to keep it crispy.",
+      "Fresh pineapple gives better flavor than canned."
+    ],
+    "serving_suggestions": "Serve over steamed rice with a garnish of sesame seeds.",
+    "storage_tips": "Store sauce and pork separately. Combine when serving.",
+    "substitutions": {
+      "pork": "chicken or tofu",
+      "pineapple": "mango or apple",
+      "ketchup": "tomato paste with extra vinegar and sugar"
+    },
+    "tags": [
+      "classic",
+      "sweet",
+      "crispy",
+      "family favorite"
+    ]
+  },
+  {
+    "id": "chinese_004",
+    "name": "Mapo Tofu",
+    "cuisine": "Chinese",
+    "diet": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free"
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 20,
+    "servings": 4,
+    "calories": 260,
+    "protein": 16,
+    "fat": 14,
+    "carbohydrates": 16,
+    "ingredients": [
+      "tofu",
+      "garlic",
+      "ginger",
+      "green onion",
+      "soy sauce",
+      "chili bean paste",
+      "sesame oil",
+      "cornstarch",
+      "vegetable broth",
+      "Sichuan pepper",
+      "oil"
+    ],
+    "instructions": [
+      "Cut tofu into 1-inch cubes. Blanch in salted water for 2 minutes.",
+      "Heat oil in a wok, fry garlic and ginger until fragrant.",
+      "Add chili bean paste and cook for 1 minute.",
+      "Add vegetable broth and bring to simmer.",
+      "Gently add tofu and simmer for 5 minutes.",
+      "Add soy sauce and sesame oil.",
+      "Thicken with cornstarch slurry.",
+      "Garnish with Sichuan pepper and green onions."
+    ],
+    "cooking_tips": [
+      "Silken tofu is traditional but firm tofu holds up better.",
+      "Blanching tofu removes any bitterness.",
+      "Sichuan peppercorns give the characteristic numbing sensation."
+    ],
+    "serving_suggestions": "Serve over steamed rice. The spicy sauce is perfect for soaking up.",
+    "storage_tips": "Refrigerate for 2 days but tofu softens over time.",
+    "substitutions": {
+      "chili bean paste": "chili garlic sauce",
+      "Sichuan pepper": "black pepper",
+      "tofu": "eggs for a non-vegan version"
+    },
+    "tags": [
+      "spicy",
+      "vegan",
+      "protein-rich",
+      "Sichuan"
+    ]
+  },
+  {
+    "id": "chinese_005",
+    "name": "Spring Rolls",
+    "cuisine": "Chinese",
+    "diet": [
+      "Vegetarian"
+    ],
+    "difficulty": "Medium",
+    "prep_time": 30,
+    "cook_time": 20,
+    "servings": 4,
+    "calories": 280,
+    "protein": 8,
+    "fat": 12,
+    "carbohydrates": 36,
+    "ingredients": [
+      "spring roll wrappers",
+      "cabbage",
+      "carrot",
+      "mushrooms",
+      "garlic",
+      "ginger",
+      "soy sauce",
+      "sesame oil",
+      "cornstarch",
+      "oil",
+      "green onion"
+    ],
+    "instructions": [
+      "Shred cabbage and carrots, slice mushrooms thin.",
+      "Stir-fry vegetables with garlic and ginger until softened.",
+      "Season with soy sauce and sesame oil. Let cool completely.",
+      "Place filling on spring roll wrapper diagonally.",
+      "Fold in sides, roll tightly, seal edge with cornstarch paste.",
+      "Heat oil to 175°C for deep frying.",
+      "Fry spring rolls in batches until golden and crispy.",
+      "Drain on paper towels and serve hot."
+    ],
+    "cooking_tips": [
+      "Let filling cool completely before rolling to prevent soggy wrappers.",
+      "Make sure oil is hot enough before frying.",
+      "For baked version, brush with oil and bake at 200°C."
+    ],
+    "serving_suggestions": "Serve with sweet chili sauce or soy dipping sauce.",
+    "storage_tips": "Freeze uncooked rolls for up to 2 months. Fry from frozen.",
+    "substitutions": {
+      "spring roll wrappers": "rice paper or puff pastry",
+      "mushrooms": "any vegetables you have",
+      "cabbage": "bok choy or lettuce"
+    },
+    "tags": [
+      "crispy",
+      "snack",
+      "appetizer",
+      "party food"
+    ]
+  },
+  {
+    "id": "dessert_001",
+    "name": "Chocolate Lava Cake",
+    "cuisine": "American",
+    "diet": [
+      "Vegetarian"
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 12,
+    "servings": 4,
+    "calories": 450,
+    "protein": 8,
+    "fat": 26,
+    "carbohydrates": 52,
+    "ingredients": [
+      "dark chocolate",
+      "butter",
+      "egg",
+      "egg yolk",
+      "sugar",
+      "flour",
+      "salt",
+      "cocoa powder",
+      "vanilla extract"
+    ],
+    "instructions": [
+      "Preheat oven to 220°C. Grease ramekins with butter and dust with cocoa powder.",
+      "Melt dark chocolate and butter together in a double boiler or microwave.",
+      "Whisk eggs, egg yolks, and sugar until pale and doubled in volume.",
+      "Fold melted chocolate mixture into egg mixture.",
+      "Gently fold in flour and salt until just combined.",
+      "Pour batter into prepared ramekins, fill 3/4 full.",
+      "Bake for 10-12 minutes — center should be slightly wobbly.",
+      "Let rest 1 minute, then carefully invert onto plates. Serve immediately."
+    ],
+    "cooking_tips": [
+      "The key is underbaking — the center should be liquid.",
+      "You can refrigerate the batter for up to 24 hours before baking.",
+      "Use high quality dark chocolate (70%+) for best results."
+    ],
+    "serving_suggestions": "Serve with vanilla ice cream, fresh berries, or a dusting of powdered sugar.",
+    "storage_tips": "Batter can be stored in ramekins in fridge for 24 hours unbaked.",
+    "substitutions": {
+      "dark chocolate": "milk chocolate or white chocolate",
+      "butter": "coconut oil",
+      "flour": "almond flour for gluten-free"
+    },
+    "tags": [
+      "chocolate",
+      "indulgent",
+      "romantic",
+      "showstopper"
+    ]
+  },
+  {
+    "id": "dessert_002",
+    "name": "Classic Tiramisu",
+    "cuisine": "Italian",
+    "diet": [
+      "Vegetarian"
+    ],
+    "difficulty": "Medium",
+    "prep_time": 30,
+    "cook_time": 0,
+    "servings": 8,
+    "calories": 380,
+    "protein": 8,
+    "fat": 22,
+    "carbohydrates": 38,
+    "ingredients": [
+      "mascarpone cheese",
+      "egg",
+      "sugar",
+      "espresso",
+      "ladyfinger biscuits",
+      "cocoa powder",
+      "dark rum",
+      "vanilla extract"
+    ],
+    "instructions": [
+      "Brew strong espresso, let cool completely, add rum if using.",
+      "Separate eggs. Beat yolks with sugar until pale and thick.",
+      "Fold mascarpone cheese into egg yolk mixture until smooth.",
+      "Beat egg whites to stiff peaks and gently fold into mascarpone mixture.",
+      "Quickly dip ladyfingers in espresso and layer in a dish.",
+      "Spread half the mascarpone cream over the ladyfingers.",
+      "Add another layer of soaked ladyfingers and top with remaining cream.",
+      "Dust generously with cocoa powder and refrigerate for at least 4 hours."
+    ],
+    "cooking_tips": [
+      "Don't over-soak ladyfingers — a quick dip is enough.",
+      "Overnight refrigeration gives the best flavor.",
+      "Use room temperature mascarpone for smooth mixing."
+    ],
+    "serving_suggestions": "Serve chilled directly from the dish. Garnish with chocolate shavings.",
+    "storage_tips": "Refrigerate for up to 3 days. The flavor actually improves overnight.",
+    "substitutions": {
+      "mascarpone": "cream cheese + heavy cream",
+      "rum": "amaretto or coffee liqueur",
+      "ladyfingers": "sponge cake or pound cake"
+    },
+    "tags": [
+      "no-bake",
+      "classic",
+      "coffee",
+      "Italian dessert"
+    ]
+  },
+  {
+    "id": "dessert_003",
+    "name": "Mango Kulfi",
+    "cuisine": "Indian",
+    "diet": [
+      "Vegetarian",
+      "Gluten Free"
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 5,
+    "servings": 6,
+    "calories": 220,
+    "protein": 5,
+    "fat": 10,
+    "carbohydrates": 30,
+    "ingredients": [
+      "mango puree",
+      "condensed milk",
+      "heavy cream",
+      "cardamom",
+      "pistachios",
+      "saffron",
+      "rose water"
+    ],
+    "instructions": [
+      "Warm 2 tablespoons of cream and dissolve saffron in it.",
+      "In a bowl, mix mango puree and condensed milk.",
+      "Whip remaining heavy cream to soft peaks.",
+      "Fold whipped cream into mango mixture.",
+      "Add cardamom powder, saffron cream, and rose water.",
+      "Pour into kulfi molds or popsicle molds.",
+      "Sprinkle chopped pistachios on top.",
+      "Freeze for at least 6 hours or overnight."
+    ],
+    "cooking_tips": [
+      "Use ripe Alphonso mangoes for authentic flavor.",
+      "The condensed milk adds sweetness — no extra sugar needed.",
+      "Unmold by briefly running warm water over the outside."
+    ],
+    "serving_suggestions": "Serve garnished with chopped pistachios and rose petals.",
+    "storage_tips": "Store in freezer for up to 1 month.",
+    "substitutions": {
+      "mango": "strawberry puree or any fruit puree",
+      "heavy cream": "coconut cream for dairy-free",
+      "condensed milk": "coconut condensed milk"
+    },
+    "tags": [
+      "frozen",
+      "Indian dessert",
+      "summer",
+      "no-bake"
+    ]
+  },
+  {
+    "id": "dessert_004",
+    "name": "Banana Foster Pancakes",
+    "cuisine": "American",
+    "diet": [
+      "Vegetarian"
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 20,
+    "servings": 4,
+    "calories": 360,
+    "protein": 10,
+    "fat": 14,
+    "carbohydrates": 52,
+    "ingredients": [
+      "banana",
+      "flour",
+      "egg",
+      "milk",
+      "butter",
+      "sugar",
+      "cinnamon",
+      "vanilla extract",
+      "baking powder",
+      "salt"
+    ],
+    "instructions": [
+      "Mash 1 ripe banana and mix with egg, milk, and melted butter.",
+      "Combine flour, baking powder, sugar, cinnamon, and salt.",
+      "Mix wet and dry ingredients until just combined — lumps are okay.",
+      "Heat a non-stick pan over medium heat, lightly grease.",
+      "Pour 1/4 cup batter per pancake. Cook until bubbles form, flip.",
+      "For the banana foster sauce: melt butter, add brown sugar and cinnamon.",
+      "Add sliced bananas and cook for 2 minutes.",
+      "Serve pancakes topped with warm banana foster sauce."
+    ],
+    "cooking_tips": [
+      "Overripe bananas make the sweetest pancakes.",
+      "Don't overmix the batter — lumps give fluffy pancakes.",
+      "Medium heat prevents burning while cooking through."
+    ],
+    "serving_suggestions": "Serve with maple syrup, whipped cream, and a sprinkle of cinnamon.",
+    "storage_tips": "Pancakes keep in fridge for 2 days. Reheat in a pan or toaster.",
+    "substitutions": {
+      "milk": "almond milk or oat milk",
+      "egg": "flax egg (1 tbsp flaxseed + 3 tbsp water)",
+      "flour": "gluten-free flour blend"
+    },
+    "tags": [
+      "breakfast dessert",
+      "banana",
+      "sweet",
+      "kids friendly"
+    ]
+  },
+  {
+    "id": "dessert_005",
+    "name": "Gulab Jamun",
+    "cuisine": "Indian",
+    "diet": [
+      "Vegetarian"
+    ],
+    "difficulty": "Medium",
+    "prep_time": 20,
+    "cook_time": 30,
+    "servings": 6,
+    "calories": 290,
+    "protein": 5,
+    "fat": 12,
+    "carbohydrates": 42,
+    "ingredients": [
+      "milk powder",
+      "flour",
+      "baking soda",
+      "ghee",
+      "milk",
+      "sugar",
+      "rose water",
+      "cardamom",
+      "saffron",
+      "oil"
+    ],
+    "instructions": [
+      "Make sugar syrup: boil sugar, water, cardamom, and saffron. Add rose water.",
+      "Combine milk powder, flour, and baking soda.",
+      "Rub in ghee until mixture resembles breadcrumbs.",
+      "Add milk gradually to form a soft, smooth dough.",
+      "Rest dough for 10 minutes. Shape into smooth balls.",
+      "Heat oil on low-medium heat. Fry gulab jamuns slowly until dark golden.",
+      "Immediately drop hot gulab jamuns into warm sugar syrup.",
+      "Soak for at least 30 minutes before serving."
+    ],
+    "cooking_tips": [
+      "Fry on low heat — the inside must cook through before outside burns.",
+      "Warm sugar syrup absorbs better into hot gulab jamuns.",
+      "Make balls smooth with no cracks to prevent breaking."
+    ],
+    "serving_suggestions": "Serve warm with vanilla ice cream or rabri.",
+    "storage_tips": "Store in syrup at room temperature for 2 days or refrigerate for 1 week.",
+    "substitutions": {
+      "milk powder": "khoya (mawa)",
+      "rose water": "kewra water",
+      "ghee": "butter"
+    },
+    "tags": [
+      "Indian sweets",
+      "festive",
+      "deep fried",
+      "popular"
+    ]
+  },
+  {
+    "id": "extra_001",
+    "name": "Savory Mushroom Oatmeal",
+    "cuisine": "American",
+    "diet": [
+      "Vegetarian",
+      "Gluten Free"
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 15,
+    "servings": 2,
+    "calories": 310,
+    "protein": 12,
+    "fat": 16,
+    "carbohydrates": 28,
+    "ingredients": [
+      "rolled oats",
+      "mushrooms",
+      "spinach",
+      "onion",
+      "garlic",
+      "vegetable broth",
+      "olive oil",
+      "parmesan cheese",
+      "salt",
+      "black pepper",
+      "thyme"
+    ],
+    "instructions": [
+      "Heat olive oil in a saucepan over medium heat.",
+      "Sauté chopped onion and garlic until translucent.",
+      "Add sliced mushrooms and cook until browned.",
+      "Stir in rolled oats and thyme for 1 minute.",
+      "Pour in vegetable broth and simmer for 10 minutes, stirring occasionally.",
+      "Add spinach and cook until wilted.",
+      "Season with salt and pepper, then stir in Parmesan cheese.",
+      "Divide into bowls and finish with extra black pepper."
+    ],
+    "cooking_tips": [
+      "Use gluten-free oats if needed.",
+      "Keep stirring to prevent the oats from sticking.",
+      "Add a splash of cream or milk if you prefer a creamier texture."
+    ],
+    "serving_suggestions": "Top with fresh herbs or a poached egg for a richer meal.",
+    "storage_tips": "Store refrigerated for up to 2 days and reheat with a little broth.",
+    "substitutions": {
+      "parmesan cheese": "nutritional yeast",
+      "spinach": "kale",
+      "mushrooms": "zucchini"
+    },
+    "tags": [
+      "hearty",
+      "breakfast",
+      "savory",
+      "vegetarian"
+    ]
+  },
+  {
+    "id": "extra_002",
+    "name": "Chana Masala",
+    "cuisine": "Indian",
+    "diet": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free"
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "calories": 320,
+    "protein": 14,
+    "fat": 12,
+    "carbohydrates": 40,
+    "ingredients": [
+      "chickpeas",
+      "tomato",
+      "onion",
+      "garlic",
+      "ginger",
+      "cumin",
+      "coriander",
+      "turmeric",
+      "garam masala",
+      "green chili",
+      "cilantro",
+      "oil",
+      "salt"
+    ],
+    "instructions": [
+      "Heat oil in a pan and add cumin seeds until they crackle.",
+      "Add chopped onion and cook until golden.",
+      "Stir in ginger-garlic paste and cook for 1 minute.",
+      "Add chopped tomatoes, turmeric, coriander powder, and cook until oil separates.",
+      "Add chickpeas, salt, and a little water. Simmer for 15 minutes.",
+      "Stir in garam masala and chopped green chili.",
+      "Cook for 5 more minutes and garnish with cilantro.",
+      "Serve hot with rice or flatbread."
+    ],
+    "cooking_tips": [
+      "Use canned chickpeas for a quick version.",
+      "Toast your spices briefly to release fuller flavor.",
+      "Adjust chili and lemon to taste for a balanced finish."
+    ],
+    "serving_suggestions": "Pair with basmati rice, naan, or a cucumber raita.",
+    "storage_tips": "Store in the fridge for 3 days; flavors deepen overnight.",
+    "substitutions": {
+      "chickpeas": "kidney beans",
+      "garam masala": "curry powder",
+      "tomato": "tomato puree"
+    },
+    "tags": [
+      "spicy",
+      "comfort food",
+      "protein-rich",
+      "vegan"
+    ]
+  },
+  {
+    "id": "extra_003",
+    "name": "Lemon Herb Salmon",
+    "cuisine": "American",
+    "diet": [
+      "Non Vegetarian",
+      "Gluten Free"
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 15,
+    "servings": 2,
+    "calories": 340,
+    "protein": 28,
+    "fat": 22,
+    "carbohydrates": 4,
+    "ingredients": [
+      "salmon fillets",
+      "lemon",
+      "garlic",
+      "dill",
+      "parsley",
+      "olive oil",
+      "salt",
+      "black pepper"
+    ],
+    "instructions": [
+      "Preheat oven to 200°C (400°F).",
+      "Place salmon fillets on a baking sheet lined with parchment.",
+      "Drizzle olive oil and lemon juice over the salmon.",
+      "Sprinkle minced garlic, chopped herbs, salt, and pepper.",
+      "Bake for 12-15 minutes until salmon flakes easily.",
+      "Remove from oven and let rest for 2 minutes.",
+      "Serve with extra lemon wedges and fresh herbs."
+    ],
+    "cooking_tips": [
+      "Do not overcook — salmon should still be moist inside.",
+      "Use fresh lemon for the brightest flavor.",
+      "Baking on parchment makes cleanup easier."
+    ],
+    "serving_suggestions": "Serve with roasted vegetables and a simple salad.",
+    "storage_tips": "Refrigerate for 2 days and reheat gently to avoid drying out.",
+    "substitutions": {
+      "salmon fillets": "trout or cod",
+      "dill": "thyme",
+      "olive oil": "butter"
+    },
+    "tags": [
+      "light",
+      "quick",
+      "healthy",
+      "fish"
+    ]
+  },
+  {
+    "id": "extra_004",
+    "name": "Caprese Salad",
+    "cuisine": "Italian",
+    "diet": [
+      "Vegetarian",
+      "Gluten Free"
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 0,
+    "servings": 2,
+    "calories": 220,
+    "protein": 8,
+    "fat": 18,
+    "carbohydrates": 8,
+    "ingredients": [
+      "tomato",
+      "fresh mozzarella",
+      "basil",
+      "olive oil",
+      "balsamic glaze",
+      "salt",
+      "black pepper"
+    ],
+    "instructions": [
+      "Slice tomatoes and fresh mozzarella into even rounds.",
+      "Arrange tomato and mozzarella slices alternately on a platter.",
+      "Tuck basil leaves between the layers.",
+      "Drizzle with olive oil and balsamic glaze.",
+      "Season with salt and freshly ground black pepper.",
+      "Serve immediately at room temperature."
+    ],
+    "cooking_tips": [
+      "Use the ripest tomatoes for the best flavor.",
+      "Let mozzarella come to room temperature before serving.",
+      "A splash of basil oil enhances the dish."
+    ],
+    "serving_suggestions": "Serve as an appetizer with crusty bread.",
+    "storage_tips": "Best eaten immediately. If storing, keep chilled and consume within a few hours.",
+    "substitutions": {
+      "fresh mozzarella": "burrata",
+      "balsamic glaze": "reduced balsamic vinegar",
+      "tomato": "heirloom tomato"
+    },
+    "tags": [
+      "fresh",
+      "salad",
+      "summer",
+      "Italian"
+    ]
+  },
+  {
+    "id": "extra_005",
+    "name": "Vegan Black Bean Tacos",
+    "cuisine": "Mexican",
+    "diet": [
+      "Vegan"
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 15,
+    "servings": 4,
+    "calories": 260,
+    "protein": 10,
+    "fat": 9,
+    "carbohydrates": 36,
+    "ingredients": [
+      "black beans",
+      "taco shells",
+      "onion",
+      "garlic",
+      "cumin",
+      "chili powder",
+      "lettuce",
+      "tomato",
+      "avocado",
+      "lime",
+      "cilantro",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": [
+      "Heat olive oil in a pan and sauté chopped onion and garlic.",
+      "Add black beans, cumin, chili powder, salt, and a splash of water.",
+      "Simmer for 8-10 minutes until warmed through.",
+      "Mash some of the beans lightly to thicken the mixture.",
+      "Warm taco shells according to package instructions.",
+      "Fill shells with black bean mixture, lettuce, tomato, avocado, and cilantro.",
+      "Squeeze lime juice over the tacos before serving."
+    ],
+    "cooking_tips": [
+      "Use low-sodium beans and add salt to taste.",
+      "For extra smokiness, add a dash of smoked paprika.",
+      "Crisp the shells in the oven for a better texture."
+    ],
+    "serving_suggestions": "Serve with salsa, guacamole, and pickled onions.",
+    "storage_tips": "Store bean filling separately from shells for up to 3 days.",
+    "substitutions": {
+      "black beans": "pinto beans",
+      "taco shells": "soft tortillas",
+      "avocado": "sliced radish"
+    },
+    "tags": [
+      "vegan",
+      "tacos",
+      "easy",
+      "Mexican"
+    ]
+  },
+  {
+    "id": "extra_006",
+    "name": "Shrimp Pad Thai",
+    "cuisine": "Thai",
+    "diet": [
+      "Non Vegetarian"
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 15,
+    "servings": 3,
+    "calories": 430,
+    "protein": 22,
+    "fat": 16,
+    "carbohydrates": 46,
+    "ingredients": [
+      "rice noodles",
+      "shrimp",
+      "bean sprouts",
+      "egg",
+      "green onion",
+      "garlic",
+      "tamarind paste",
+      "fish sauce",
+      "brown sugar",
+      "lime",
+      "peanuts",
+      "oil"
+    ],
+    "instructions": [
+      "Soak rice noodles according to package directions until pliable.",
+      "Mix tamarind paste, fish sauce, brown sugar, and lime juice in a bowl.",
+      "Heat oil in a wok, sauté garlic until fragrant.",
+      "Add shrimp and cook until pink, then push to the side.",
+      "Crack egg into the wok and scramble until just set.",
+      "Add drained noodles and sauce, tossing to coat.",
+      "Stir in bean sprouts and green onion, cook for 1-2 minutes.",
+      "Serve topped with chopped peanuts and lime wedges."
+    ],
+    "cooking_tips": [
+      "Work quickly once the noodles are in the wok.",
+      "Use room-temperature shrimp for even cooking.",
+      "Adjust sweetness and sourness by tasting the sauce."
+    ],
+    "serving_suggestions": "Serve with extra lime wedges and cilantro.",
+    "storage_tips": "Eat fresh. Reheat gently if needed, but noodles may soften.",
+    "substitutions": {
+      "shrimp": "tofu",
+      "fish sauce": "soy sauce",
+      "peanuts": "cashews"
+    },
+    "tags": [
+      "noodle",
+      "Thai",
+      "street food",
+      "savory"
+    ]
+  },
+  {
+    "id": "extra_007",
+    "name": "Chocolate Chia Pudding",
+    "cuisine": "American",
+    "diet": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free"
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 0,
+    "servings": 4,
+    "calories": 210,
+    "protein": 6,
+    "fat": 13,
+    "carbohydrates": 22,
+    "ingredients": [
+      "chia seeds",
+      "almond milk",
+      "cocoa powder",
+      "maple syrup",
+      "vanilla extract",
+      "banana",
+      "berries"
+    ],
+    "instructions": [
+      "In a bowl, whisk together almond milk, cocoa powder, maple syrup, and vanilla.",
+      "Stir in chia seeds until evenly distributed.",
+      "Let the mixture sit for 5 minutes, then stir again to prevent clumps.",
+      "Cover and refrigerate for at least 3 hours or overnight.",
+      "Stir again before serving and top with sliced banana and berries.",
+      "Serve chilled."
+    ],
+    "cooking_tips": [
+      "Use fresh chia seeds and whisk well to avoid clumping.",
+      "Add a dollop of nut butter for extra richness.",
+      "The pudding thickens as it chills — thin with extra milk if needed."
+    ],
+    "serving_suggestions": "Top with nuts, shredded coconut, or fresh fruit.",
+    "storage_tips": "Refrigerate for up to 4 days.",
+    "substitutions": {
+      "almond milk": "coconut milk",
+      "maple syrup": "honey",
+      "cocoa powder": "carob powder"
+    },
+    "tags": [
+      "dessert",
+      "healthy",
+      "make ahead",
+      "breakfast"
+    ]
+  },
+  {
+    "id": "extra_008",
+    "name": "Spinach Strawberry Salad",
+    "cuisine": "American",
+    "diet": [
+      "Vegetarian",
+      "Gluten Free"
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "servings": 4,
+    "calories": 180,
+    "protein": 4,
+    "fat": 10,
+    "carbohydrates": 22,
+    "ingredients": [
+      "baby spinach",
+      "strawberries",
+      "goat cheese",
+      "walnuts",
+      "red onion",
+      "balsamic vinegar",
+      "olive oil",
+      "honey",
+      "salt",
+      "black pepper"
+    ],
+    "instructions": [
+      "Toss baby spinach, sliced strawberries, and thinly sliced red onion in a bowl.",
+      "Add crumbled goat cheese and chopped walnuts.",
+      "Whisk together balsamic vinegar, olive oil, honey, salt, and pepper.",
+      "Pour dressing over the salad and toss gently.",
+      "Serve immediately as a fresh side dish."
+    ],
+    "cooking_tips": [
+      "Use ripe strawberries for the sweetest flavor.",
+      "Toast walnuts lightly for extra crunch.",
+      "Dress the salad just before serving to avoid sogginess."
+    ],
+    "serving_suggestions": "Serve alongside grilled chicken or fish.",
+    "storage_tips": "Prepare components separately and toss before serving.",
+    "substitutions": {
+      "goat cheese": "feta cheese",
+      "walnuts": "almonds",
+      "honey": "maple syrup"
+    },
+    "tags": [
+      "fresh",
+      "salad",
+      "fruit",
+      "spring"
+    ]
+  },
+  {
+    "id": "indian_001",
+    "name": "Butter Chicken (Murgh Makhani)",
+    "cuisine": "Indian",
+    "diet": [
+      "Non Vegetarian"
+    ],
+    "difficulty": "Medium",
+    "prep_time": 20,
+    "cook_time": 40,
+    "servings": 4,
+    "calories": 420,
+    "protein": 35,
+    "fat": 22,
+    "carbohydrates": 18,
+    "ingredients": [
+      "chicken",
+      "butter",
+      "tomato",
+      "onion",
+      "garlic",
+      "ginger",
+      "cream",
+      "garam masala",
+      "cumin",
+      "coriander",
+      "turmeric",
+      "chili powder",
+      "salt",
+      "oil"
+    ],
+    "instructions": [
+      "Marinate chicken in yogurt, turmeric, chili powder, and salt for at least 1 hour.",
+      "Heat oil in a pan and cook marinated chicken until golden brown. Set aside.",
+      "In the same pan, melt butter and sauté onions until golden.",
+      "Add ginger-garlic paste and cook for 2 minutes.",
+      "Add tomato puree, garam masala, cumin, coriander, and cook for 10 minutes.",
+      "Blend the sauce until smooth, then return to pan.",
+      "Add cooked chicken and simmer for 15 minutes.",
+      "Stir in cream, adjust seasoning, and garnish with fresh coriander."
+    ],
+    "cooking_tips": [
+      "Marinate chicken overnight for deeper flavor.",
+      "Use kasuri methi (dried fenugreek) for authentic taste.",
+      "Blend the sauce for a silky smooth texture."
+    ],
+    "serving_suggestions": "Serve hot with naan bread, basmati rice, or roti. Garnish with a swirl of cream.",
+    "storage_tips": "Refrigerate for up to 3 days or freeze for up to 1 month.",
+    "substitutions": {
+      "butter": "ghee or olive oil",
+      "cream": "coconut cream or cashew paste",
+      "chicken": "paneer or tofu for vegetarian version"
+    },
+    "tags": [
+      "popular",
+      "restaurant-style",
+      "rich",
+      "creamy"
+    ]
+  },
+  {
+    "id": "indian_002",
+    "name": "Dal Tadka",
+    "cuisine": "Indian",
+    "diet": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free"
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 30,
+    "servings": 4,
+    "calories": 280,
+    "protein": 14,
+    "fat": 8,
+    "carbohydrates": 38,
+    "ingredients": [
+      "yellow lentils",
+      "tomato",
+      "onion",
+      "garlic",
+      "ginger",
+      "cumin",
+      "turmeric",
+      "red chili",
+      "mustard seeds",
+      "ghee",
+      "coriander leaves",
+      "salt"
+    ],
+    "instructions": [
+      "Wash and soak yellow lentils for 20 minutes.",
+      "Pressure cook lentils with turmeric and salt until soft.",
+      "Heat ghee in a pan, add mustard seeds and let them splutter.",
+      "Add cumin, dried red chili, and garlic. Sauté until golden.",
+      "Add onions and cook until translucent.",
+      "Add tomatoes, ginger and cook until oil separates.",
+      "Pour this tadka over cooked lentils and stir well.",
+      "Garnish with fresh coriander and a squeeze of lemon."
+    ],
+    "cooking_tips": [
+      "Soaking lentils reduces cooking time significantly.",
+      "The tadka (tempering) is the key to this dish's flavor.",
+      "Add a pinch of asafoetida for authentic taste."
+    ],
+    "serving_suggestions": "Serve with steamed basmati rice or jeera rice. Perfect with roti.",
+    "storage_tips": "Refrigerate for up to 4 days. Add water when reheating as it thickens.",
+    "substitutions": {
+      "ghee": "butter or coconut oil",
+      "yellow lentils": "red lentils or split peas",
+      "mustard seeds": "cumin seeds"
+    },
+    "tags": [
+      "comfort food",
+      "protein-rich",
+      "everyday",
+      "healthy"
+    ]
+  },
+  {
+    "id": "indian_003",
+    "name": "Palak Paneer",
+    "cuisine": "Indian",
+    "diet": [
+      "Vegetarian",
+      "Gluten Free"
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 25,
+    "servings": 4,
+    "calories": 320,
+    "protein": 18,
+    "fat": 20,
+    "carbohydrates": 16,
+    "ingredients": [
+      "paneer",
+      "spinach",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "cream",
+      "garam masala",
+      "cumin",
+      "coriander",
+      "turmeric",
+      "butter",
+      "salt"
+    ],
+    "instructions": [
+      "Blanch spinach in boiling water for 2 minutes, then immediately transfer to cold water.",
+      "Blend blanched spinach into a smooth puree.",
+      "Heat butter in a pan, fry cubed paneer until golden on all sides. Set aside.",
+      "In the same pan, add cumin seeds, then onions and cook until golden.",
+      "Add ginger-garlic paste, tomatoes, and all spices. Cook until oil separates.",
+      "Add spinach puree and cook for 5 minutes.",
+      "Add fried paneer and simmer for 5 more minutes.",
+      "Stir in cream, season with salt and serve hot."
+    ],
+    "cooking_tips": [
+      "Blanch and immediately cool spinach to retain its vibrant green color.",
+      "Frying paneer gives it a nice texture that holds up in the curry.",
+      "Do not overcook spinach as it turns dark."
+    ],
+    "serving_suggestions": "Serve with butter naan, tandoori roti, or jeera rice.",
+    "storage_tips": "Refrigerate for 2-3 days. The color may darken but taste remains good.",
+    "substitutions": {
+      "paneer": "tofu or halloumi",
+      "cream": "cashew cream or coconut milk",
+      "butter": "ghee or olive oil"
+    },
+    "tags": [
+      "vegetarian",
+      "protein-rich",
+      "iron-rich",
+      "popular"
+    ]
+  },
+  {
+    "id": "indian_004",
+    "name": "Chicken Biryani",
+    "cuisine": "Indian",
+    "diet": [
+      "Non Vegetarian",
+      "Gluten Free"
+    ],
+    "difficulty": "Hard",
+    "prep_time": 30,
+    "cook_time": 60,
+    "servings": 6,
+    "calories": 520,
+    "protein": 38,
+    "fat": 18,
+    "carbohydrates": 55,
+    "ingredients": [
+      "chicken",
+      "basmati rice",
+      "onion",
+      "yogurt",
+      "mint",
+      "saffron",
+      "ghee",
+      "garam masala",
+      "biryani masala",
+      "garlic",
+      "ginger",
+      "green chili",
+      "tomato",
+      "salt",
+      "oil"
+    ],
+    "instructions": [
+      "Marinate chicken with yogurt, biryani masala, ginger-garlic paste for 2 hours.",
+      "Parboil basmati rice with whole spices until 70% cooked. Drain.",
+      "Fry sliced onions until deep golden brown (birista). Set aside.",
+      "Cook marinated chicken in a heavy pan until half done.",
+      "Layer parboiled rice over chicken.",
+      "Add saffron milk, fried onions, mint leaves, and ghee on top.",
+      "Seal the pot with dough or foil and cook on low heat (dum) for 25 minutes.",
+      "Gently mix from bottom before serving."
+    ],
+    "cooking_tips": [
+      "The dum (slow steam cooking) is what makes biryani special.",
+      "Crispy golden onions add essential flavor and texture.",
+      "Soak rice for 30 minutes before parboiling."
+    ],
+    "serving_suggestions": "Serve with raita, mirchi ka salan, and papad.",
+    "storage_tips": "Refrigerate for 2 days. Reheat with a sprinkle of water to prevent drying.",
+    "substitutions": {
+      "chicken": "mutton, prawns, or vegetables",
+      "saffron": "turmeric for color",
+      "ghee": "butter or oil"
+    },
+    "tags": [
+      "festive",
+      "special occasion",
+      "aromatic",
+      "layered"
+    ]
+  },
+  {
+    "id": "indian_005",
+    "name": "Aloo Gobi",
+    "cuisine": "Indian",
+    "diet": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten Free"
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 25,
+    "servings": 3,
+    "calories": 210,
+    "protein": 6,
+    "fat": 10,
+    "carbohydrates": 28,
+    "ingredients": [
+      "potato",
+      "cauliflower",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "turmeric",
+      "cumin",
+      "coriander",
+      "garam masala",
+      "oil",
+      "salt",
+      "coriander leaves"
+    ],
+    "instructions": [
+      "Cut potatoes into cubes and cauliflower into small florets.",
+      "Heat oil in a pan, add cumin seeds and let them splutter.",
+      "Add onions and cook until golden brown.",
+      "Add ginger-garlic paste and cook for 1 minute.",
+      "Add tomatoes and all spices, cook until oil separates.",
+      "Add potatoes, mix well, and cook covered for 10 minutes.",
+      "Add cauliflower and continue cooking until both vegetables are tender.",
+      "Garnish with fresh coriander and serve hot."
+    ],
+    "cooking_tips": [
+      "Don't add water — let vegetables cook in their own moisture.",
+      "Parboiling potatoes can reduce cooking time.",
+      "Add amchur (dry mango powder) for tangy flavor."
+    ],
+    "serving_suggestions": "Serve with roti, paratha, or as a side dish with dal and rice.",
+    "storage_tips": "Refrigerate for 2-3 days. Best when freshly made.",
+    "substitutions": {
+      "cauliflower": "broccoli or cabbage",
+      "potato": "sweet potato",
+      "oil": "ghee for richer flavor"
+    },
+    "tags": [
+      "vegan",
+      "everyday",
+      "simple",
+      "healthy"
+    ]
+  },
+  {
+    "id": "indian_006",
+    "name": "Paneer Tikka Masala",
+    "cuisine": "Indian",
+    "diet": [
+      "Vegetarian"
+    ],
+    "difficulty": "Medium",
+    "prep_time": 20,
+    "cook_time": 30,
+    "servings": 4,
+    "calories": 390,
+    "protein": 22,
+    "fat": 24,
+    "carbohydrates": 20,
+    "ingredients": [
+      "paneer",
+      "yogurt",
+      "tomato puree",
+      "onion",
+      "bell pepper",
+      "garam masala",
+      "cumin",
+      "coriander",
+      "kasuri methi",
+      "ginger",
+      "garlic",
+      "cream",
+      "butter",
+      "oil",
+      "salt"
+    ],
+    "instructions": [
+      "Marinate paneer cubes in yogurt, ginger-garlic paste, garam masala, and salt for 30 minutes.",
+      "Grill or sauté paneer and bell peppers until lightly charred and set aside.",
+      "Heat butter and oil in a pan, sauté onions until golden brown.",
+      "Add ginger-garlic paste and cook for 1 minute.",
+      "Stir in tomato puree, cumin, coriander, and simmer until oil separates.",
+      "Add cream, kasuri methi, and cook for 2 minutes.",
+      "Add paneer and bell peppers to the sauce, simmer for 5 minutes.",
+      "Garnish with cilantro and serve hot."
+    ],
+    "cooking_tips": [
+      "Char the paneer lightly for authentic tikka flavor.",
+      "Use fresh tomatoes or good-quality puree for the best sauce.",
+      "Kasuri methi adds a signature smoky aroma — don’t skip it."
+    ],
+    "serving_suggestions": "Serve with naan, roti, or jeera rice.",
+    "storage_tips": "Refrigerate for 2 days and reheat gently.",
+    "substitutions": {
+      "paneer": "tofu for vegan version",
+      "cream": "coconut cream or cashew cream",
+      "butter": "oil"
+    },
+    "tags": [
+      "restaurant-style",
+      "comfort food",
+      "vegetarian",
+      "rich"
+    ]
+  },
+  {
+    "id": "indian_007",
+    "name": "Vegetable Biryani",
+    "cuisine": "Indian",
+    "diet": [
+      "Vegetarian",
+      "Gluten Free"
+    ],
+    "difficulty": "Medium",
+    "prep_time": 25,
+    "cook_time": 45,
+    "servings": 6,
+    "calories": 430,
+    "protein": 10,
+    "fat": 16,
+    "carbohydrates": 62,
+    "ingredients": [
+      "basmati rice",
+      "mixed vegetables",
+      "onion",
+      "tomato",
+      "yogurt",
+      "mint",
+      "cilantro",
+      "biryani masala",
+      "ginger",
+      "garlic",
+      "green chili",
+      "saffron",
+      "ghee",
+      "oil",
+      "salt"
+    ],
+    "instructions": [
+      "Wash and soak basmati rice for 30 minutes.",
+      "Heat oil and ghee in a pan, fry sliced onions until golden brown. Set aside half for garnish.",
+      "Add ginger-garlic paste, green chili, and sauté briefly.",
+      "Add chopped tomatoes, mixed vegetables, biryani masala, and yogurt. Cook until vegetables are soft.",
+      "Layer partially cooked rice over the vegetable mixture.",
+      "Sprinkle saffron milk, mint, cilantro, and fried onions.",
+      "Cover and cook on low heat for 20 minutes (dum cooking).",
+      "Gently fluff the biryani and serve hot."
+    ],
+    "cooking_tips": [
+      "Parboil the rice until about 70% cooked.",
+      "Use a heavy-bottomed pot and seal the lid for dum cooking.",
+      "Brown onions slowly for the best flavor and texture."
+    ],
+    "serving_suggestions": "Serve with raita, papad, and salad.",
+    "storage_tips": "Store refrigerated for 2 days and reheat with a splash of water.",
+    "substitutions": {
+      "biryani masala": "garam masala and additional spices",
+      "yogurt": "coconut yogurt for dairy-free",
+      "mixed vegetables": "cauliflower, carrots, peas, beans"
+    },
+    "tags": [
+      "festive",
+      "aromatic",
+      "vegetarian",
+      "rice"
+    ]
+  },
+  {
+    "id": "indian_008",
+    "name": "Rogan Josh",
+    "cuisine": "Indian",
+    "diet": [
+      "Non Vegetarian",
+      "Gluten Free"
+    ],
+    "difficulty": "Hard",
+    "prep_time": 25,
+    "cook_time": 60,
+    "servings": 4,
+    "calories": 520,
+    "protein": 38,
+    "fat": 30,
+    "carbohydrates": 16,
+    "ingredients": [
+      "lamb",
+      "onion",
+      "yogurt",
+      "ginger",
+      "garlic",
+      "kashmiri chili powder",
+      "coriander",
+      "cumin",
+      "cardamom",
+      "cinnamon",
+      "cloves",
+      "bay leaf",
+      "oil",
+      "salt"
+    ],
+    "instructions": [
+      "Heat oil in a heavy pot and sauté sliced onions until golden brown.",
+      "Add ginger-garlic paste and cook for 2 minutes.",
+      "Add lamb pieces and brown on all sides.",
+      "Mix in yogurt, kashmiri chili powder, coriander, cumin, and salt.",
+      "Add whole spices: cardamom, cinnamon, cloves, and bay leaf.",
+      "Cover and simmer on low heat for 45 minutes until lamb is tender.",
+      "Adjust seasoning and cook uncovered for 5 minutes to thicken the gravy.",
+      "Garnish with fresh cilantro and serve hot."
+    ],
+    "cooking_tips": [
+      "Cook on low heat to keep the lamb tender.",
+      "Kashmiri chili gives color without overwhelming heat.",
+      "Browning the lamb adds depth to the curry."
+    ],
+    "serving_suggestions": "Serve with basmati rice or naan.",
+    "storage_tips": "Refrigerate for 2 days. The flavors improve after resting.",
+    "substitutions": {
+      "lamb": "beef or goat",
+      "yogurt": "coconut milk for dairy-free",
+      "kashmiri chili": "paprika plus mild chili powder"
+    },
+    "tags": [
+      "rich",
+      "spicy",
+      "slow-cooked",
+      "Kashmiri"
+    ]
+  },
+  {
+    "id": "indian_009",
+    "name": "Methi Chicken",
+    "cuisine": "Indian",
+    "diet": [
+      "Non Vegetarian",
+      "Gluten Free"
+    ],
+    "difficulty": "Medium",
+    "prep_time": 20,
+    "cook_time": 35,
+    "servings": 4,
+    "calories": 380,
+    "protein": 32,
+    "fat": 18,
+    "carbohydrates": 12,
+    "ingredients": [
+      "chicken",
+      "fenugreek leaves",
+      "onion",
+      "tomato",
+      "ginger",
+      "garlic",
+      "green chili",
+      "cumin",
+      "coriander",
+      "turmeric",
+      "garam masala",
+      "cream",
+      "oil",
+      "salt"
+    ],
+    "instructions": [
+      "Heat oil in a pan and sauté onions until translucent.",
+      "Add ginger-garlic paste and cook until fragrant.",
+      "Add chicken pieces and brown lightly on all sides.",
+      "Add tomatoes, green chili, turmeric, cumin, and coriander. Cook until tomatoes soften.",
+      "Stir in chopped fenugreek leaves and simmer for 10 minutes.",
+      "Add garam masala and cream, cook for another 5 minutes.",
+      "Adjust seasoning and garnish with fresh fenugreek or cilantro.",
+      "Serve hot with rice or roti."
+    ],
+    "cooking_tips": [
+      "Use fresh methi leaves for the best aroma.",
+      "Simmer gently so the chicken stays tender.",
+      "Add cream at the end to keep the gravy rich and smooth."
+    ],
+    "serving_suggestions": "Serve with steamed rice or paratha.",
+    "storage_tips": "Refrigerate for 2 days and reheat gently.",
+    "substitutions": {
+      "fenugreek leaves": "fenugreek powder",
+      "cream": "coconut milk",
+      "chicken": "paneer for a vegetarian version"
+    },
+    "tags": [
+      "herby",
+      "spicy",
+      "traditional",
+      "chicken"
+    ]
+  },
+  {
+    "id": "indian_010",
+    "name": "Paneer Biryani",
+    "cuisine": "Indian",
+    "diet": [
+      "Vegetarian",
+      "Gluten Free"
+    ],
+    "difficulty": "Hard",
+    "prep_time": 25,
+    "cook_time": 55,
+    "servings": 6,
+    "calories": 480,
+    "protein": 18,
+    "fat": 24,
+    "carbohydrates": 58,
+    "ingredients": [
+      "basmati rice",
+      "paneer",
+      "onion",
+      "tomato",
+      "yogurt",
+      "ginger",
+      "garlic",
+      "green chili",
+      "mint",
+      "cilantro",
+      "biryani masala",
+      "saffron",
+      "ghee",
+      "oil",
+      "salt"
+    ],
+    "instructions": [
+      "Soak basmati rice for 30 minutes and drain.",
+      "Heat oil and ghee in a large pan, fry sliced onions until deep golden and set aside half for garnish.",
+      "Add ginger-garlic paste and sauté for 1 minute.",
+      "Add tomatoes, yogurt, biryani masala, and cook until oil separates.",
+      "Stir in paneer cubes and cook for 5 minutes.",
+      "Layer half-cooked rice over the paneer mixture, sprinkle chopped mint, cilantro, saffron milk, and fried onions.",
+      "Cover tightly and cook on low heat for 20-25 minutes until rice finishes steaming.",
+      "Gently fluff the biryani, garnish with remaining fried onions, and serve hot."
+    ],
+    "cooking_tips": [
+      "Parboil rice until about 70% cooked before layering.",
+      "Use a heavy pot and seal the lid well to trap steam for dum cooking.",
+      "Brown the onions slowly for the best flavor and texture."
+    ],
+    "serving_suggestions": "Serve with raita and salad.",
+    "storage_tips": "Refrigerate for 2 days and reheat with a splash of water.",
+    "substitutions": {
+      "paneer": "tofu for a vegan version",
+      "yogurt": "coconut yogurt",
+      "ghee": "butter or oil"
+    },
+    "tags": [
+      "vegetarian",
+      "hard",
+      "biryani",
+      "festival"
+    ]
+  },
+  {
+    "id": "indian_011",
+    "name": "Paneer Butter Masala",
+    "cuisine": "Indian",
+    "diet": [
+      "Vegetarian"
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "calories": 390,
+    "protein": 16,
+    "fat": 26,
+    "carbohydrates": 22,
+    "ingredients": [
+      "paneer",
+      "butter",
+      "tomato",
+      "onion",
+      "garlic",
+      "ginger",
+      "fresh cream",
+      "cashews",
+      "garam masala",
+      "coriander powder",
+      "turmeric",
+      "red chili powder",
+      "kasuri methi",
+      "oil",
+      "salt"
+    ],
+    "instructions": [
+      "Heat oil and butter in a pan over medium heat.",
+      "Add chopped onions and sauté until golden brown.",
+      "Add ginger and garlic, cooking for 2 minutes until fragrant.",
+      "Add tomatoes and cashews, then cook until the tomatoes become soft.",
+      "Allow the mixture to cool slightly and blend into a smooth puree.",
+      "Return the puree to the pan and cook for 5 minutes.",
+      "Add turmeric, coriander powder, red chili powder, garam masala and salt.",
+      "Add paneer cubes and simmer for 8–10 minutes.",
+      "Mix in fresh cream and crushed kasuri methi.",
+      "Cook for another 2 minutes and serve hot."
+    ],
+    "cooking_tips": [
+      "Use fresh paneer for the softest texture.",
+      "Soak paneer cubes in warm water for 10 minutes before cooking.",
+      "Blend the gravy thoroughly for a smooth restaurant-style consistency."
+    ],
+    "serving_suggestions": "Serve hot with butter naan, roti, jeera rice, or steamed basmati rice.",
+    "storage_tips": "Store in an airtight container in the refrigerator for up to 3 days. Reheat gently before serving.",
+    "substitutions": {
+      "paneer": "tofu",
+      "fresh cream": "cashew cream",
+      "butter": "ghee or olive oil",
+      "cashews": "melon seeds"
+    },
+    "tags": [
+      "popular",
+      "restaurant-style",
+      "vegetarian",
+      "creamy",
+      "north-indian"
+    ]
+  },
+  {
+    "id": "indian_012",
+    "name": "Palak Paneer",
+    "cuisine": "Indian",
+    "diet": [
+      "Vegetarian"
+    ],
+    "difficulty": "Medium",
+    "prep_time": 20,
+    "cook_time": 25,
+    "servings": 4,
+    "calories": 310,
+    "protein": 17,
+    "fat": 20,
+    "carbohydrates": 15,
+    "ingredients": [
+      "paneer",
+      "spinach",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "green chili",
+      "fresh cream",
+      "garam masala",
+      "cumin",
+      "turmeric",
+      "oil",
+      "salt"
+    ],
+    "instructions": [
+      "Wash spinach thoroughly and blanch it in boiling water for 2 minutes.",
+      "Transfer the spinach immediately into ice-cold water to retain its green color.",
+      "Blend the spinach into a smooth puree.",
+      "Heat oil in a pan and sauté cumin until fragrant.",
+      "Add chopped onions and cook until golden.",
+      "Add ginger, garlic, and green chili, then sauté for 2 minutes.",
+      "Add chopped tomatoes and cook until soft.",
+      "Mix in turmeric, garam masala, and salt.",
+      "Pour in the spinach puree and simmer for 5 minutes.",
+      "Add paneer cubes and cook for another 5 minutes.",
+      "Stir in fresh cream and cook for 2 more minutes before serving."
+    ],
+    "cooking_tips": [
+      "Do not overcook the spinach to preserve its bright green color.",
+      "Soak paneer in warm water before adding it to keep it soft.",
+      "Add cream at the end for a richer texture."
+    ],
+    "serving_suggestions": "Serve hot with naan, roti, paratha, or steamed basmati rice.",
+    "storage_tips": "Store in an airtight container in the refrigerator for up to 2 days. Reheat gently before serving.",
+    "substitutions": {
+      "paneer": "tofu",
+      "fresh cream": "cashew cream",
+      "oil": "ghee",
+      "green chili": "black pepper"
+    },
+    "tags": [
+      "healthy",
+      "vegetarian",
+      "north-indian",
+      "spinach",
+      "protein-rich"
+    ]
+  },
+  {
+    "id": "indian_013",
+    "name": "Chole Masala",
+    "cuisine": "Indian",
+    "diet": [
+      "Vegetarian"
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 40,
+    "servings": 4,
+    "calories": 320,
+    "protein": 14,
+    "fat": 9,
+    "carbohydrates": 44,
+    "ingredients": [
+      "chickpeas",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "green chili",
+      "cumin",
+      "coriander powder",
+      "turmeric",
+      "red chili powder",
+      "garam masala",
+      "amchur powder",
+      "oil",
+      "salt",
+      "fresh coriander"
+    ],
+    "instructions": [
+      "Soak chickpeas overnight and pressure cook until soft.",
+      "Heat oil in a pan and sauté cumin seeds.",
+      "Add chopped onions and cook until golden brown.",
+      "Add ginger, garlic, and green chili, then sauté for 2 minutes.",
+      "Add chopped tomatoes and cook until they become soft.",
+      "Mix in turmeric, coriander powder, red chili powder, garam masala, amchur powder, and salt.",
+      "Cook the masala until oil separates.",
+      "Add cooked chickpeas along with a little cooking water.",
+      "Simmer for 15 minutes so the flavors blend well.",
+      "Garnish with fresh coriander and serve hot."
+    ],
+    "cooking_tips": [
+      "Cook chickpeas until very soft for the best texture.",
+      "Mash a few chickpeas into the gravy to make it thicker.",
+      "A pinch of black tea while boiling chickpeas gives an authentic dark color."
+    ],
+    "serving_suggestions": "Serve hot with bhature, poori, naan, roti, or steamed basmati rice.",
+    "storage_tips": "Refrigerate in an airtight container for up to 3 days or freeze for up to 1 month.",
+    "substitutions": {
+      "chickpeas": "white peas",
+      "amchur powder": "lemon juice",
+      "oil": "ghee",
+      "green chili": "black pepper"
+    },
+    "tags": [
+      "north-indian",
+      "vegetarian",
+      "protein-rich",
+      "popular",
+      "street-food"
+    ]
+  },
+  {
+    "id": "indian_014",
+    "name": "Rajma Masala",
+    "cuisine": "Indian",
+    "diet": [
+      "Vegetarian"
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 45,
+    "servings": 4,
+    "calories": 340,
+    "protein": 15,
+    "fat": 8,
+    "carbohydrates": 48,
+    "ingredients": [
+      "kidney beans",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "green chili",
+      "cumin",
+      "coriander powder",
+      "turmeric",
+      "red chili powder",
+      "garam masala",
+      "oil",
+      "salt",
+      "fresh coriander"
+    ],
+    "instructions": [
+      "Soak kidney beans overnight and pressure cook until tender.",
+      "Heat oil in a pan and add cumin seeds until they splutter.",
+      "Add finely chopped onions and sauté until golden brown.",
+      "Add ginger, garlic, and green chili, cooking for 2 minutes.",
+      "Add chopped tomatoes and cook until soft and the oil separates.",
+      "Mix in turmeric, coriander powder, red chili powder, garam masala, and salt.",
+      "Add the cooked kidney beans along with some of the cooking liquid.",
+      "Simmer on low heat for 20 minutes, stirring occasionally.",
+      "Lightly mash a few beans to naturally thicken the gravy.",
+      "Garnish with fresh coriander and serve hot."
+    ],
+    "cooking_tips": [
+      "Always soak kidney beans overnight for even cooking.",
+      "Cook the gravy well before adding the beans for a richer flavor.",
+      "Slow simmering improves the taste and texture."
+    ],
+    "serving_suggestions": "Serve hot with steamed basmati rice, jeera rice, roti, or naan.",
+    "storage_tips": "Store in an airtight container in the refrigerator for up to 3 days or freeze for up to 1 month.",
+    "substitutions": {
+      "kidney beans": "black beans",
+      "oil": "ghee",
+      "green chili": "black pepper",
+      "fresh coriander": "parsley"
+    },
+    "tags": [
+      "north-indian",
+      "vegetarian",
+      "protein-rich",
+      "comfort-food",
+      "popular"
+    ]
+  },
+  {
+    "id": "indian_015",
+    "name": "Dal Tadka",
+    "cuisine": "Indian",
+    "diet": [
+      "Vegetarian"
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 30,
+    "servings": 4,
+    "calories": 260,
+    "protein": 13,
+    "fat": 8,
+    "carbohydrates": 32,
+    "ingredients": [
+      "toor dal",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "green chili",
+      "cumin",
+      "mustard seeds",
+      "turmeric",
+      "red chili powder",
+      "garam masala",
+      "asafoetida",
+      "ghee",
+      "fresh coriander",
+      "salt"
+    ],
+    "instructions": [
+      "Wash the toor dal thoroughly and pressure cook it with turmeric and water until soft.",
+      "Mash the cooked dal lightly to obtain a smooth consistency.",
+      "Heat ghee in a pan and add mustard seeds, cumin seeds, and a pinch of asafoetida.",
+      "Add chopped garlic and sauté until golden brown.",
+      "Add ginger, green chili, and chopped onions, cooking until the onions become translucent.",
+      "Add chopped tomatoes and cook until they soften completely.",
+      "Mix in red chili powder, garam masala, and salt.",
+      "Pour the cooked dal into the pan and mix well.",
+      "Simmer for 8 to 10 minutes, adding water if needed to adjust the consistency.",
+      "Garnish with freshly chopped coriander and serve hot."
+    ],
+    "cooking_tips": [
+      "Use ghee instead of oil for authentic flavor.",
+      "Do not overcook the tempering, as burnt garlic can make the dal bitter.",
+      "Add a squeeze of lemon juice before serving for extra freshness."
+    ],
+    "serving_suggestions": "Serve hot with steamed rice, jeera rice, roti, chapati, or naan. Pair with papad and pickle for a complete meal.",
+    "storage_tips": "Store in an airtight container in the refrigerator for up to 3 days. Reheat with a little water before serving.",
+    "substitutions": {
+      "toor dal": "moong dal or masoor dal",
+      "ghee": "butter or vegetable oil",
+      "asafoetida": "omit if unavailable",
+      "fresh coriander": "parsley"
+    },
+    "tags": [
+      "vegetarian",
+      "protein-rich",
+      "comfort-food",
+      "everyday-meal",
+      "north-indian"
+    ]
+  },
+  {
+    "id": "indian_016",
+    "name": "Aloo Gobi",
+    "cuisine": "Indian",
+    "diet": [
+      "Vegetarian",
+      "Vegan"
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 25,
+    "servings": 4,
+    "calories": 220,
+    "protein": 6,
+    "fat": 8,
+    "carbohydrates": 32,
+    "ingredients": [
+      "potato",
+      "cauliflower",
+      "onion",
+      "tomato",
+      "ginger",
+      "garlic",
+      "green chili",
+      "turmeric",
+      "red chili powder",
+      "coriander powder",
+      "garam masala",
+      "cumin seeds",
+      "oil",
+      "salt",
+      "fresh coriander"
+    ],
+    "instructions": [
+      "Wash and cut the potatoes and cauliflower into medium-sized pieces.",
+      "Heat oil in a pan and add cumin seeds until they begin to splutter.",
+      "Add chopped onions and sauté until golden brown.",
+      "Add ginger, garlic, and green chili, then cook for 2 minutes.",
+      "Mix in chopped tomatoes, turmeric, red chili powder, coriander powder, and salt. Cook until the tomatoes become soft.",
+      "Add potatoes and cauliflower, stirring well to coat them with the masala.",
+      "Cover and cook on low heat for 20 minutes, stirring occasionally.",
+      "Sprinkle garam masala and garnish with fresh coriander before serving."
+    ],
+    "cooking_tips": [
+      "Do not overcook the cauliflower to keep it slightly firm.",
+      "Add a tablespoon of water if the vegetables begin sticking to the pan.",
+      "Roast the vegetables for a smoky flavor."
+    ],
+    "serving_suggestions": "Serve hot with roti, chapati, naan, or steamed basmati rice.",
+    "storage_tips": "Store in an airtight container in the refrigerator for up to 3 days. Reheat before serving.",
+    "substitutions": {
+      "potato": "sweet potato",
+      "cauliflower": "broccoli",
+      "oil": "ghee or olive oil",
+      "fresh coriander": "parsley"
+    },
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "healthy",
+      "everyday-meal",
+      "north-indian"
+    ]
+  },
+  {
+    "id": "indian_017",
+    "name": "Chole Masala",
+    "cuisine": "Indian",
+    "diet": [
+      "Vegetarian",
+      "Vegan"
+    ],
+    "difficulty": "Medium",
+    "prep_time": 20,
+    "cook_time": 40,
+    "servings": 4,
+    "calories": 310,
+    "protein": 13,
+    "fat": 9,
+    "carbohydrates": 42,
+    "ingredients": [
+      "chickpeas",
+      "onion",
+      "tomato",
+      "ginger",
+      "garlic",
+      "green chili",
+      "cumin seeds",
+      "turmeric",
+      "coriander powder",
+      "red chili powder",
+      "garam masala",
+      "chole masala",
+      "oil",
+      "salt",
+      "fresh coriander"
+    ],
+    "instructions": [
+      "Soak chickpeas overnight and pressure cook until soft.",
+      "Heat oil in a pan and add cumin seeds.",
+      "Sauté chopped onions until golden brown.",
+      "Add ginger, garlic, and green chili. Cook for 2 minutes.",
+      "Add chopped tomatoes, turmeric, coriander powder, red chili powder, and salt. Cook until oil separates.",
+      "Add cooked chickpeas with a little cooking water and mix well.",
+      "Add chole masala and simmer for 15 minutes.",
+      "Sprinkle garam masala, garnish with fresh coriander, and serve hot."
+    ],
+    "cooking_tips": [
+      "Overnight soaking gives softer chickpeas.",
+      "Mash a few chickpeas while cooking for a thicker gravy.",
+      "A tea bag while boiling chickpeas gives authentic dark color."
+    ],
+    "serving_suggestions": "Serve with bhature, puri, naan, jeera rice, or steamed rice along with sliced onions and lemon.",
+    "storage_tips": "Refrigerate for up to 3 days or freeze for up to 1 month.",
+    "substitutions": {
+      "chickpeas": "canned chickpeas",
+      "oil": "ghee",
+      "fresh coriander": "parsley"
+    },
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "protein-rich",
+      "north-indian",
+      "popular"
+    ]
+  },
+  {
+    "id": "indian_018",
+    "name": "Rajma Masala",
+    "cuisine": "Indian",
+    "diet": [
+      "Vegetarian",
+      "Vegan"
+    ],
+    "difficulty": "Medium",
+    "prep_time": 20,
+    "cook_time": 45,
+    "servings": 4,
+    "calories": 330,
+    "protein": 15,
+    "fat": 8,
+    "carbohydrates": 47,
+    "ingredients": [
+      "kidney beans",
+      "onion",
+      "tomato",
+      "ginger",
+      "garlic",
+      "green chili",
+      "cumin seeds",
+      "turmeric",
+      "red chili powder",
+      "coriander powder",
+      "garam masala",
+      "oil",
+      "salt",
+      "fresh coriander"
+    ],
+    "instructions": [
+      "Soak kidney beans overnight and pressure cook until soft.",
+      "Heat oil in a pan and add cumin seeds.",
+      "Sauté chopped onions until golden brown.",
+      "Add ginger, garlic, and green chili, then cook for 2 minutes.",
+      "Add chopped tomatoes, turmeric, coriander powder, red chili powder, and salt. Cook until the tomatoes become soft.",
+      "Add cooked kidney beans with some cooking liquid and mix well.",
+      "Simmer on low heat for 20 minutes until the gravy thickens.",
+      "Sprinkle garam masala, garnish with fresh coriander, and serve hot."
+    ],
+    "cooking_tips": [
+      "Slow simmering enhances the flavor.",
+      "Mash a few kidney beans for a naturally thick gravy.",
+      "Freshly ground spices provide the best taste."
+    ],
+    "serving_suggestions": "Serve with steamed basmati rice, jeera rice, chapati, or naan along with sliced onions and lemon wedges.",
+    "storage_tips": "Store in the refrigerator for up to 3 days or freeze for up to 1 month.",
+    "substitutions": {
+      "kidney beans": "black beans",
+      "oil": "ghee",
+      "fresh coriander": "parsley"
+    },
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "protein-rich",
+      "north-indian",
+      "comfort-food"
+    ]
+  },
+  {
+    "id": "indian_019",
+    "name": "Malai Kofta",
+    "cuisine": "Indian",
+    "diet": [
+      "Vegetarian"
+    ],
+    "difficulty": "Medium",
+    "prep_time": 30,
+    "cook_time": 35,
+    "servings": 4,
+    "calories": 410,
+    "protein": 12,
+    "fat": 22,
+    "carbohydrates": 38,
+    "ingredients": [
+      "paneer",
+      "potato",
+      "corn flour",
+      "cashews",
+      "raisins",
+      "onion",
+      "tomato",
+      "ginger",
+      "garlic",
+      "cream",
+      "cashew paste",
+      "turmeric",
+      "red chili powder",
+      "garam masala",
+      "coriander powder",
+      "oil",
+      "salt",
+      "fresh coriander"
+    ],
+    "instructions": [
+      "Boil and mash the potatoes in a mixing bowl.",
+      "Add grated paneer, corn flour, salt, chopped cashews, and raisins. Mix well.",
+      "Shape the mixture into small round koftas.",
+      "Deep fry the koftas until golden brown and keep them aside.",
+      "Heat oil in another pan and sauté chopped onions until golden.",
+      "Add ginger, garlic, and tomatoes, then cook until soft.",
+      "Blend the mixture into a smooth gravy.",
+      "Return the gravy to the pan and add turmeric, coriander powder, red chili powder, garam masala, cashew paste, and cream.",
+      "Simmer for 8 minutes.",
+      "Add the fried koftas just before serving.",
+      "Garnish with fresh coriander and a drizzle of cream."
+    ],
+    "cooking_tips": [
+      "Add the koftas only before serving to keep them crispy.",
+      "Use fresh paneer for a softer texture.",
+      "Blend the gravy until completely smooth for a restaurant-style finish."
+    ],
+    "serving_suggestions": "Serve hot with butter naan, garlic naan, tandoori roti, or jeera rice.",
+    "storage_tips": "Store the gravy and koftas separately in the refrigerator for up to 3 days. Combine only while reheating.",
+    "substitutions": {
+      "paneer": "tofu",
+      "cream": "coconut cream",
+      "cashew paste": "almond paste",
+      "corn flour": "all-purpose flour"
+    },
+    "tags": [
+      "vegetarian",
+      "restaurant-style",
+      "rich",
+      "creamy",
+      "north-indian"
+    ]
+  },
+  {
+    "id": "indian_020",
+    "name": "Chicken Biryani",
+    "cuisine": "Indian",
+    "diet": [
+      "Non Vegetarian"
+    ],
+    "difficulty": "Medium",
+    "prep_time": 30,
+    "cook_time": 50,
+    "servings": 4,
+    "calories": 540,
+    "protein": 34,
+    "fat": 20,
+    "carbohydrates": 52,
+    "ingredients": [
+      "chicken",
+      "basmati rice",
+      "onion",
+      "tomato",
+      "yogurt",
+      "ginger",
+      "garlic",
+      "green chili",
+      "mint leaves",
+      "coriander leaves",
+      "biryani masala",
+      "turmeric",
+      "red chili powder",
+      "garam masala",
+      "ghee",
+      "oil",
+      "salt"
+    ],
+    "instructions": [
+      "Wash and soak basmati rice for 30 minutes.",
+      "Marinate the chicken with yogurt, turmeric, red chili powder, biryani masala, ginger-garlic paste, and salt for at least 1 hour.",
+      "Cook the rice until it is about 70% done and drain.",
+      "Heat oil and ghee in a heavy-bottomed pot.",
+      "Fry sliced onions until golden brown and reserve some for garnish.",
+      "Cook the marinated chicken until it is nearly done.",
+      "Add chopped tomatoes, mint leaves, and coriander leaves.",
+      "Layer the partially cooked rice over the chicken mixture.",
+      "Sprinkle fried onions, garam masala, mint, and coriander between the layers.",
+      "Cover the pot tightly and cook on low heat (dum) for 20 minutes.",
+      "Allow the biryani to rest for 10 minutes before gently mixing and serving."
+    ],
+    "cooking_tips": [
+      "Use aged basmati rice for the best aroma and texture.",
+      "Do not overcook the rice before layering.",
+      "Marinating the chicken overnight enhances the flavor."
+    ],
+    "serving_suggestions": "Serve hot with onion raita, boiled egg, pickle, and papad.",
+    "storage_tips": "Store in an airtight container in the refrigerator for up to 3 days. Reheat with a sprinkle of water before serving.",
+    "substitutions": {
+      "chicken": "paneer or mushrooms",
+      "ghee": "butter",
+      "yogurt": "coconut yogurt"
+    },
+    "tags": [
+      "non-vegetarian",
+      "biryani",
+      "festival",
+      "one-pot-meal",
+      "popular"
+    ]
+  },
+  {
+    "id": "indian_021",
+    "name": "Hyderabadi Dum Biryani",
+    "cuisine": "Indian",
+    "diet": [
+      "Non Vegetarian"
+    ],
+    "difficulty": "Hard",
+    "prep_time": 40,
+    "cook_time": 60,
+    "servings": 6,
+    "calories": 620,
+    "protein": 38,
+    "fat": 24,
+    "carbohydrates": 60,
+    "ingredients": [
+      "chicken",
+      "basmati rice",
+      "yogurt",
+      "fried onions",
+      "ginger",
+      "garlic",
+      "green chili",
+      "mint leaves",
+      "coriander leaves",
+      "biryani masala",
+      "turmeric",
+      "red chili powder",
+      "garam masala",
+      "saffron",
+      "milk",
+      "ghee",
+      "oil",
+      "salt"
+    ],
+    "instructions": [
+      "Wash and soak the basmati rice for 30 minutes.",
+      "Marinate the chicken with yogurt, ginger-garlic paste, biryani masala, turmeric, red chili powder, salt, mint, coriander, and fried onions for at least 2 hours.",
+      "Cook the rice until it is about 70% cooked and drain.",
+      "Grease a heavy-bottomed pot with ghee.",
+      "Spread the marinated chicken evenly at the bottom of the pot.",
+      "Layer the partially cooked rice over the chicken.",
+      "Sprinkle saffron milk, fried onions, mint leaves, coriander leaves, and ghee over the rice.",
+      "Seal the pot with a tight-fitting lid or dough.",
+      "Cook on very low heat for 35–40 minutes.",
+      "Allow the biryani to rest for 10 minutes before gently mixing and serving."
+    ],
+    "cooking_tips": [
+      "Marinate the chicken overnight for maximum flavor.",
+      "Use high-quality aged basmati rice.",
+      "Cook on low heat to prevent the rice from burning.",
+      "Do not stir while the biryani is cooking."
+    ],
+    "serving_suggestions": "Serve with mirchi ka salan, onion raita, boiled eggs, pickle, and fresh salad.",
+    "storage_tips": "Refrigerate in an airtight container for up to 3 days. Reheat with a little water to maintain moisture.",
+    "substitutions": {
+      "chicken": "mutton",
+      "saffron": "turmeric milk",
+      "ghee": "butter",
+      "yogurt": "coconut yogurt"
+    },
+    "tags": [
+      "hyderabadi",
+      "dum-biryani",
+      "non-vegetarian",
+      "festival",
+      "traditional",
+      "restaurant-style"
+    ]
+  },
+  {
+    "id": "indian_022",
+    "name": "Kadai Paneer",
+    "cuisine": "Indian",
+    "diet": [
+      "Vegetarian"
+    ],
+    "difficulty": "Medium",
+    "prep_time": 20,
+    "cook_time": 30,
+    "servings": 4,
+    "calories": 360,
+    "protein": 18,
+    "fat": 22,
+    "carbohydrates": 18,
+    "ingredients": [
+      "paneer",
+      "onion",
+      "tomato",
+      "capsicum",
+      "ginger",
+      "garlic",
+      "green chili",
+      "coriander seeds",
+      "cumin seeds",
+      "red chili",
+      "turmeric",
+      "garam masala",
+      "kasuri methi",
+      "oil",
+      "salt",
+      "fresh coriander"
+    ],
+    "instructions": [
+      "Dry roast coriander seeds, cumin seeds, and dried red chilies, then grind them into a coarse powder.",
+      "Heat oil in a kadai or deep pan.",
+      "Sauté chopped onions until lightly golden.",
+      "Add ginger, garlic, and green chili, then cook for 2 minutes.",
+      "Add chopped tomatoes and cook until soft.",
+      "Mix in turmeric, freshly ground kadai masala, garam masala, and salt.",
+      "Add chopped capsicum and cook for 3 to 4 minutes until slightly tender.",
+      "Add paneer cubes and mix gently.",
+      "Sprinkle crushed kasuri methi and cook for another 2 minutes.",
+      "Garnish with fresh coriander and serve hot."
+    ],
+    "cooking_tips": [
+      "Freshly ground kadai masala gives the best flavor.",
+      "Do not overcook the capsicum so it stays slightly crunchy.",
+      "Add paneer at the end to keep it soft."
+    ],
+    "serving_suggestions": "Serve hot with butter naan, roti, laccha paratha, or jeera rice.",
+    "storage_tips": "Refrigerate for up to 3 days in an airtight container. Reheat on low heat before serving.",
+    "substitutions": {
+      "paneer": "tofu",
+      "capsicum": "bell peppers of any color",
+      "oil": "ghee",
+      "kasuri methi": "fresh fenugreek leaves"
+    },
+    "tags": [
+      "vegetarian",
+      "north-indian",
+      "restaurant-style",
+      "paneer",
+      "spicy"
+    ]
+  },
+  {
+    "id": "italian_001",
+    "name": "Spaghetti Carbonara",
+    "cuisine": "Italian",
+    "diet": [
+      "Non Vegetarian"
+    ],
+    "difficulty": "Medium",
+    "prep_time": 10,
+    "cook_time": 20,
+    "servings": 4,
+    "calories": 480,
+    "protein": 28,
+    "fat": 18,
+    "carbohydrates": 55,
+    "ingredients": [
+      "spaghetti",
+      "egg",
+      "pancetta",
+      "parmesan cheese",
+      "black pepper",
+      "garlic",
+      "salt"
+    ],
+    "instructions": [
+      "Cook spaghetti in well-salted boiling water until al dente.",
+      "In a bowl, whisk together eggs and grated Parmesan cheese. Season with black pepper.",
+      "Fry pancetta with garlic in a pan over medium heat until crispy.",
+      "Reserve 1 cup of pasta cooking water before draining.",
+      "Remove pan from heat. Add drained pasta to the pancetta.",
+      "Quickly pour the egg-cheese mixture over pasta, tossing continuously.",
+      "Add pasta water a little at a time to create a creamy sauce.",
+      "Serve immediately with extra Parmesan and black pepper."
+    ],
+    "cooking_tips": [
+      "Never add cream — the creaminess comes from eggs and pasta water.",
+      "Remove the pan from heat before adding eggs to prevent scrambling.",
+      "Use guanciale (cured pork cheek) for the most authentic version."
+    ],
+    "serving_suggestions": "Serve immediately with extra Parmesan and a simple green salad.",
+    "storage_tips": "Best eaten fresh. Can be refrigerated for 1 day but sauce may dry out.",
+    "substitutions": {
+      "pancetta": "bacon or ham",
+      "parmesan": "pecorino romano",
+      "spaghetti": "rigatoni or fettuccine"
+    },
+    "tags": [
+      "classic",
+      "quick",
+      "creamy",
+      "pasta"
+    ]
+  },
+  {
+    "id": "italian_002",
+    "name": "Margherita Pizza",
+    "cuisine": "Italian",
+    "diet": [
+      "Vegetarian"
+    ],
+    "difficulty": "Medium",
+    "prep_time": 30,
+    "cook_time": 15,
+    "servings": 4,
+    "calories": 350,
+    "protein": 14,
+    "fat": 12,
+    "carbohydrates": 48,
+    "ingredients": [
+      "pizza dough",
+      "tomato sauce",
+      "mozzarella cheese",
+      "fresh basil",
+      "olive oil",
+      "salt",
+      "flour"
+    ],
+    "instructions": [
+      "Preheat oven to 250°C (480°F) with a pizza stone or baking sheet inside.",
+      "Stretch pizza dough on a floured surface to desired thickness.",
+      "Spread tomato sauce evenly, leaving a border for the crust.",
+      "Tear mozzarella and distribute over the sauce.",
+      "Drizzle with olive oil and season with salt.",
+      "Bake for 12-15 minutes until crust is golden and cheese is bubbly.",
+      "Remove from oven and immediately top with fresh basil leaves.",
+      "Drizzle with more olive oil and serve immediately."
+    ],
+    "cooking_tips": [
+      "A very hot oven is key to a good pizza crust.",
+      "Don't overload with toppings — less is more for Margherita.",
+      "Add fresh basil after baking to preserve its flavor."
+    ],
+    "serving_suggestions": "Serve hot, cut into slices. Pair with a simple arugula salad.",
+    "storage_tips": "Best eaten fresh. Reheat in oven at 200°C for 5 minutes.",
+    "substitutions": {
+      "mozzarella": "burrata or provolone",
+      "fresh basil": "dried basil or fresh oregano",
+      "pizza dough": "flatbread or tortilla for quick version"
+    },
+    "tags": [
+      "classic",
+      "vegetarian",
+      "popular",
+      "italian"
+    ]
+  },
+  {
+    "id": "italian_003",
+    "name": "Risotto ai Funghi",
+    "cuisine": "Italian",
+    "diet": [
+      "Vegetarian",
+      "Gluten Free"
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 35,
+    "servings": 4,
+    "calories": 380,
+    "protein": 10,
+    "fat": 14,
+    "carbohydrates": 54,
+    "ingredients": [
+      "arborio rice",
+      "mushrooms",
+      "onion",
+      "garlic",
+      "white wine",
+      "vegetable broth",
+      "parmesan cheese",
+      "butter",
+      "olive oil",
+      "thyme",
+      "salt",
+      "black pepper"
+    ],
+    "instructions": [
+      "Heat vegetable broth in a saucepan and keep warm.",
+      "Sauté mushrooms in olive oil until golden. Season and set aside.",
+      "In another pan, sweat onions and garlic in butter until soft.",
+      "Add arborio rice and toast for 2 minutes, stirring constantly.",
+      "Pour in white wine and stir until absorbed.",
+      "Add warm broth one ladle at a time, stirring constantly until absorbed.",
+      "Continue for 18-20 minutes until rice is creamy and al dente.",
+      "Stir in mushrooms, Parmesan, and remaining butter. Season to taste."
+    ],
+    "cooking_tips": [
+      "Never stop stirring — it releases the starch that makes risotto creamy.",
+      "Add broth warm, not cold.",
+      "The final addition of butter and cheese (mantecatura) is what makes it silky."
+    ],
+    "serving_suggestions": "Serve immediately in warmed bowls. Garnish with truffle oil for luxury.",
+    "storage_tips": "Risotto doesn't store well. Best made and eaten immediately.",
+    "substitutions": {
+      "arborio rice": "carnaroli or vialone nano",
+      "white wine": "dry vermouth or extra broth",
+      "parmesan": "grana padano"
+    },
+    "tags": [
+      "creamy",
+      "vegetarian",
+      "comfort",
+      "elegant"
+    ]
+  },
+  {
+    "id": "italian_004",
+    "name": "Chicken Piccata",
+    "cuisine": "Italian",
+    "diet": [
+      "Non Vegetarian",
+      "Gluten Free"
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 20,
+    "servings": 4,
+    "calories": 340,
+    "protein": 42,
+    "fat": 14,
+    "carbohydrates": 12,
+    "ingredients": [
+      "chicken breast",
+      "lemon",
+      "capers",
+      "garlic",
+      "butter",
+      "olive oil",
+      "flour",
+      "white wine",
+      "parsley",
+      "salt",
+      "pepper",
+      "chicken broth"
+    ],
+    "instructions": [
+      "Pound chicken breasts thin between plastic wrap.",
+      "Season with salt and pepper and dredge in flour, shake off excess.",
+      "Heat olive oil in a skillet over medium-high heat.",
+      "Cook chicken 3 minutes per side until golden. Transfer to plate.",
+      "In the same pan, sauté garlic briefly.",
+      "Add white wine and chicken broth, scraping up any brown bits.",
+      "Add lemon juice, capers, and butter. Simmer until sauce thickens.",
+      "Return chicken to sauce, simmer 2 minutes, garnish with parsley."
+    ],
+    "cooking_tips": [
+      "Pounding chicken ensures even cooking.",
+      "Don't skip the flour — it helps create the sauce.",
+      "Use fresh lemon juice for bright, fresh flavor."
+    ],
+    "serving_suggestions": "Serve over angel hair pasta or with roasted vegetables.",
+    "storage_tips": "Refrigerate for up to 3 days. Reheat gently to avoid drying out.",
+    "substitutions": {
+      "chicken": "veal scallopini or fish fillets",
+      "capers": "green olives (chopped)",
+      "white wine": "extra lemon juice and broth"
+    },
+    "tags": [
+      "quick",
+      "elegant",
+      "tangy",
+      "chicken"
+    ]
+  },
+  {
+    "id": "italian_005",
+    "name": "Penne Arrabbiata",
+    "cuisine": "Italian",
+    "diet": [
+      "Vegetarian",
+      "Vegan"
+    ],
+    "difficulty": "Easy",
+    "prep_time": 5,
+    "cook_time": 20,
+    "servings": 4,
+    "calories": 320,
+    "protein": 10,
+    "fat": 8,
+    "carbohydrates": 58,
+    "ingredients": [
+      "penne pasta",
+      "tomato",
+      "garlic",
+      "red chili",
+      "olive oil",
+      "parsley",
+      "salt",
+      "sugar"
+    ],
+    "instructions": [
+      "Cook penne in salted boiling water until al dente.",
+      "Heat olive oil in a pan over medium heat.",
+      "Add sliced garlic and red chili flakes. Cook until garlic is fragrant.",
+      "Add crushed tomatoes, salt, and a pinch of sugar.",
+      "Simmer sauce for 15 minutes until thickened.",
+      "Toss drained pasta with the sauce.",
+      "Garnish with fresh parsley and serve hot."
+    ],
+    "cooking_tips": [
+      "Arrabbiata means 'angry' in Italian — make it as spicy as you like.",
+      "Save pasta water to adjust sauce consistency.",
+      "Use San Marzano tomatoes for best flavor."
+    ],
+    "serving_suggestions": "Serve with crusty bread and a green salad.",
+    "storage_tips": "Sauce keeps for 3 days. Cook pasta fresh when serving.",
+    "substitutions": {
+      "penne": "rigatoni or ziti",
+      "fresh tomato": "canned crushed tomatoes",
+      "red chili": "chili paste or cayenne pepper"
+    },
+    "tags": [
+      "spicy",
+      "vegan",
+      "quick",
+      "simple"
+    ]
+  }
+]

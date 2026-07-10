@@ -18,9 +18,6 @@ env/
 .venv/
 ENV/
 
-# FAISS vector database (auto-generated)
-vector_db/*.faiss
-vector_db/recipe_metadata.json
 
 # IDE files
 .vscode/
